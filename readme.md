@@ -13,7 +13,7 @@
 
 <br>
 
-## 💻 Experience
+## 🖥 Experience
 
 **Java Software Engineer** @ [ubitec AG](https://ubitec.com/en/) (*Jan 2019 - Present*)
 - Implement back-end (Java) and front-end (Angular) for new projects.
