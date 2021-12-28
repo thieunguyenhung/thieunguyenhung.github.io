@@ -1,17 +1,11 @@
 # Thieu Nguyen Hung
 *Java and Angular developer with more than 5 years experienced working with various projects*<br><br>
 
-**Email:** thieunguyenhung@gmail.com
-
-**LinkedIn:** [linkedin.com/in/thieunguyenhung](https://www.linkedin.com/in/thieunguyenhung/)
-
-**GitHub:** [github.com/thieunguyenhung](https://thieunguyenhung.github.io)
-
-**Phone:** 0908 217 269
-
-**Address:** Ho Chi Minh City, Vietnam
-
-<br>
+**Email:** thieunguyenhung@gmail.com<br>
+**LinkedIn:** [linkedin.com/in/thieunguyenhung](https://www.linkedin.com/in/thieunguyenhung/)<br>
+**GitHub:** [github.com/thieunguyenhung](https://thieunguyenhung.github.io)<br>
+**Phone:** 0908 217 269<br>
+**Address:** Ho Chi Minh City, Vietnam<br>
 
 ## 🖥 Experience
 
