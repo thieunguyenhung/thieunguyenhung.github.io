@@ -37,9 +37,23 @@
 - Optimize result layout in PDF for end-user.
 <br>
 
-## 🎓 Education
-**Bachelor** in **Computer Science**<br>
-[Ton Duc Thang University](https://tdtu.edu.vn/) - Ho Chi Minh City, Viet Nam (2013 - 2017)
+## 📦 Projects
+Please check the [Projects](https://thieunguyenhung.github.io/projects) page
+
+## ⭐ Skills
+Languages: Java, JS, Type Script, HTML, SCSS
+Java Frameworks: Spring Boot, Axon Ivy, Hibernate
+Web Frameworks: Angular, ExpressJS
+Testing: JUnit, Testcontainers, Cucumber
+Database: Oracle, MySQL, Postgres, MariaDB, H2, Liquibase
+Container Platforms: Docker, Kubernetes
+Cloud: AWS, Google Cloud
+SVC: Git, SVN
+Misc: OOP, MVC, S.O.L.I.D
+
+## 💬 Languages
+**English**: Professional fluently<br>
+**Vietnamese**: Native
 
 ## 📜 Certificates
 **TOEIC 880** - *89233-61504 • SR811R150*<br>
@@ -57,6 +71,6 @@
 **Android App Development**<br>
 [GDG Vietnam](https://gdg.community.dev/gdg-ho-chi-minh-city/) (Mar 2016)
 
-## 💬 Languages
-**English**: Professional fluently<br>
-**Vietnamese**: Native
+## 🎓 Education
+**Bachelor** in **Computer Science**<br>
+[Ton Duc Thang University](https://tdtu.edu.vn/) - Ho Chi Minh City, Viet Nam (2013 - 2017)
