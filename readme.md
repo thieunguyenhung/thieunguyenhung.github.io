@@ -42,7 +42,7 @@ Please check the [Projects](https://thieunguyenhung.github.io/projects) page
 **Container Platforms:** Docker, Kubernetes<br>
 **Cloud:** AWS, Google Cloud<br>
 **SVC:** Git, SVN<br>
-**Misc.:** OOP, MVC, S.O.L.I.D
+**Miscellaneous:** OOP, MVC, S.O.L.I.D
 
 ## 💬 Languages
 **English**: Professional fluently<br>
