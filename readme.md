@@ -38,12 +38,11 @@
 <br>
 
 ## 🎓 Education
-**Bachelor** in **Computer Science**
-
+**Bachelor** in **Computer Science**<br>
 [Ton Duc Thang University](https://tdtu.edu.vn/) - Ho Chi Minh City, Viet Nam (2013 - 2017)
 
 ## 📜 Certificates
-**TOEIC 880**
+**TOEIC 880** - *89233-61504 • SR811R150*
 [IIG Vietnam](https://iigvietnam.com/en/) (Feb 2017)
 
 **Android Programmer Certificate** - *TT/M/2016/000565*<br>
@@ -59,6 +58,5 @@
 [GDG Vietnam](https://gdg.community.dev/gdg-ho-chi-minh-city/) (Mar 2016)
 
 ## 💬 Languages
-**English**: Professional fluently
-
+**English**: Professional fluently<br>
 **Vietnamese**: Native
