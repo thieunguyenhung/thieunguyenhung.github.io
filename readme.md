@@ -36,7 +36,7 @@ Please check the [Projects](https://thieunguyenhung.github.io/projects) page
 ## ⭐ Skills
 **Languages:** Java, JS, TypeScript, HTML, SCSS<br>
 **Java Frameworks:** Spring Boot, Axon Ivy, Hibernate<br>
-**Build:** Maven, Gradle<br>
+**Build:** Maven, Gradle, Jenkins<br>
 **Web Frameworks:** Angular, ExpressJS<br>
 **Testing:** JUnit, Testcontainers, Cucumber<br>
 **Database:** Oracle, MySQL, Postgres, MariaDB, H2, Liquibase<br>
