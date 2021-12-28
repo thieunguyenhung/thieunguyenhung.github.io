@@ -34,15 +34,15 @@
 Please check the [Projects](https://thieunguyenhung.github.io/projects) page
 
 ## ⭐ Skills
-Languages: Java, JS, Type Script, HTML, SCSS<br>
-Java Frameworks: Spring Boot, Axon Ivy, Hibernate<br>
-Web Frameworks: Angular, ExpressJS<br>
-Testing: JUnit, Testcontainers, Cucumber<br>
-Database: Oracle, MySQL, Postgres, MariaDB, H2, Liquibase<br>
-Container Platforms: Docker, Kubernetes<br>
-Cloud: AWS, Google Cloud<br>
-SVC: Git, SVN<br>
-Misc: OOP, MVC, S.O.L.I.D
+**Languages:** Java, JS, Type Script, HTML, SCSS<br>
+**Java Frameworks:** Spring Boot, Axon Ivy, Hibernate<br>
+**Web Frameworks:** Angular, ExpressJS<br>
+**Testing:** JUnit, Testcontainers, Cucumber<br>
+**Database:** Oracle, MySQL, Postgres, MariaDB, H2, Liquibase<br>
+**Container Platforms:** Docker, Kubernetes<br>
+**Cloud:** AWS, Google Cloud<br>
+**SVC:** Git, SVN<br>
+**Misc.:** OOP, MVC, S.O.L.I.D
 
 ## 💬 Languages
 **English**: Professional fluently<br>
