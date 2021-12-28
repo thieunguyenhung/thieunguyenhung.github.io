@@ -42,7 +42,7 @@
 [Ton Duc Thang University](https://tdtu.edu.vn/) - Ho Chi Minh City, Viet Nam (2013 - 2017)
 
 ## 📜 Certificates
-**TOEIC 880** - *89233-61504 • SR811R150*
+**TOEIC 880** - *89233-61504 • SR811R150*<br>
 [IIG Vietnam](https://iigvietnam.com/en/) (Feb 2017)
 
 **Android Programmer Certificate** - *TT/M/2016/000565*<br>
