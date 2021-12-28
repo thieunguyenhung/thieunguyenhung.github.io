@@ -73,4 +73,4 @@ Techs:
 - Front-end: Eclipse RCP, SWT
 
 
-🎉 It's an honor for me to scroll to the bottom, which means you have read all my official projects. Please check my open source projects as a gift 🎁 (here)[http://bitly.com/98K8eH]
+🎉 It's an honor for me to scroll to the bottom, which means you have read all my official projects. Please check my open source projects as a gift [here](http://bitly.com/98K8eH) 🎁
