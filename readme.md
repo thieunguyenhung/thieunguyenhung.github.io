@@ -15,6 +15,7 @@
 - Setup Jenkins build job for new projects.
 - Create staging and dev environment based on Docker/OKD/OpenShift.
 - Peer code review with teammates.
+- Mentoring junior members.
 <br><br>
 
 **Java Software Engineer** @ [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)
