@@ -34,7 +34,7 @@
 Please check the [Projects](https://thieunguyenhung.github.io/projects) page
 
 ## ⭐ Skills
-**Languages:** Java, JS, Type Script, HTML, SCSS<br>
+**Languages:** Java, JS, TypeScript, HTML, SCSS<br>
 **Java Frameworks:** Spring Boot, Axon Ivy, Hibernate<br>
 **Web Frameworks:** Angular, ExpressJS<br>
 **Testing:** JUnit, Testcontainers, Cucumber<br>
