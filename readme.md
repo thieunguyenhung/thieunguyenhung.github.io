@@ -1,5 +1,5 @@
 # Thieu Nguyen Hung
-*Java and Angular developer with more than 5 years experienced working with various projects*<br><br>
+*Java and Angular developer with more than 4 years experienced working with various projects*<br><br>
 
 **Email:** thieunguyenhung@gmail.com<br>
 **LinkedIn:** [linkedin.com/in/thieunguyenhung](https://www.linkedin.com/in/thieunguyenhung/)<br>
