@@ -4,7 +4,7 @@
 **Email:** [thieunguyenhung@gmail.com](mailto:thieunguyenhung@gmail.com)<br>
 **LinkedIn:** [linkedin.com/in/thieunguyenhung](https://www.linkedin.com/in/thieunguyenhung/)<br>
 **GitHub:** [github.com/thieunguyenhung](https://thieunguyenhung.github.io)<br>
-**Phone:** 0908 217 269<br>
+**Phone:** [0908 217 269](tel:+84908217269)<br>
 **Address:** Ho Chi Minh City, Vietnam<br>
 
 ## 🖥 Experience
