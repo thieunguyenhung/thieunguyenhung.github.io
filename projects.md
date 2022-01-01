@@ -44,6 +44,27 @@ Techs:
 - Database: Postgres
 - Front-end: Express.js, HTML, JS, CSS
 
+### ubidoc-ng
+*A web-app (portal) and RESTful API for user to versioning and manage document templates (MSWord DOCX type) with merge-field*<br>
+
+- [Microsoft Word Quick Parts - Field feature](https://support.microsoft.com/en-us/office/quick-parts-4ffef7c5-7596-4e95-9faf-41c771847a7b#bm3)
+- [Example of Merge Fields](https://doc.laserfiche.com/laserfiche.documentation/en-us/Subsystems/ProcessAutomation/Content/Resources/Rules/Document-Merges/Preparing-a-Document-with-Merge-Fields.htm) (random example by Google Search)
+
+Requirement (brief): Support add/delete/update document templates by its ID, support versioning and multiple languages for templates, review existing merge fields in templates. Provide APIs for other modules to send the prepared fields-values list and generate PDF with this list, return result when requested.
+
+Responsibilities:
+- Back-end and front-end developer
+- Writing unit tests
+- Create Jenkins build jobs
+- Create and deploy application-stack for dev environment (Docker)
+- Create docker-compose for internal testing
+- Peer code review
+
+Techs:
+- Back-end: Java, Spring Boot, OpenAPI, JUnit, Maven
+- Database: Postgres
+- Front-end: Angular, Material components, TypeScript, JS, HTML, SCSS
+
 ### CIC
 *Internal banking application for employees, gather information from their customers to complete forms, tasks. Create a complete flow for processing dossier of customer requests.*<br>
 
@@ -56,7 +77,7 @@ Responsibilities:
 Techs:
 - Back-end: Java, Axon Ivy, OpenAPI, Maven
 - Database: Oracle Database
-- Front-end: Angular, Material components, JS, HTML, SCSS
+- Front-end: Angular, Material components, TypeScript, JS, HTML, SCSS
 
 ## Adnovum
 ### STMP (IMO & IPM)
