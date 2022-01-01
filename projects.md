@@ -6,6 +6,7 @@ For my personal information, please check the main page [thieunguyenhung.github.
 - [ubitec AG](#ubitec-ag)
   - [DBH Card Module](#dbh-card-module)
   - [PSD2](#psd2)
+  - [ubidoc-ng](#ubidoc-ng)
   - [CIC](#cic)
 - [Adnovum](#adnovum)
   - [STMP (IMO & IPM)](#stmp-imo--ipm)
@@ -68,7 +69,7 @@ Techs:
 ### CIC
 *Internal banking application for employees, gather information from their customers to complete forms, tasks. Create a complete flow for processing dossier of customer requests.*<br>
 
-Requirement (brief): UI support multiple languages.
+Requirement (brief): UI support multiple languages. Create dossier by input required fields, process dossiers by its state. Create and assignable tasks login roles with permissions.
 
 Responsibilities:
 - Back-end and front-end developer
