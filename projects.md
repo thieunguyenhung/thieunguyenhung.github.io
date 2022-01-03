@@ -7,6 +7,7 @@ For my personal information, please check the main page [thieunguyenhung.github.
   - [DBH Card Module](#dbh-card-module)
   - [PSD2](#psd2)
   - [ubidoc-ng](#ubidoc-ng)
+  - [ubiID](#ubiid)
   - [CIC](#cic)
 - [Adnovum](#adnovum)
   - [STMP (IMO & IPM)](#stmp-imo--ipm)
@@ -24,7 +25,7 @@ Responsibilities:
 
 Techs:
 - Back-end: Java, Spring Boot, OpenAPI, JUnit, Cucumber, Testcontainers, Gradle
-- Database: Oracle, MariaDB, Postgres, H2, Liquibase
+- Database: Oracle, MariaDB, PostgreSQL, H2, Liquibase
 - Front-end: Angular, TypeScript, HTML, JS, SCSS
 
 ### PSD2
@@ -42,11 +43,11 @@ Responsibilities:
 
 Techs:
 - Back-end: Java, Spring Boot, OpenAPI, JUnit, Maven
-- Database: Postgres
+- Database: PostgreSQL
 - Front-end: Express.js, HTML, JS, CSS
 
 ### ubidoc-ng
-*A web-app (portal) and RESTful API for user to versioning and manage document templates (MSWord DOCX type) with merge-field*<br>
+*A web app (portal) and RESTful API for user to versioning and manage document templates (MSWord DOCX type) with merge-field*<br>
 
 - [Microsoft Word Quick Parts - Field feature](https://support.microsoft.com/en-us/office/quick-parts-4ffef7c5-7596-4e95-9faf-41c771847a7b#bm3)
 - [Example of Merge Fields](https://doc.laserfiche.com/laserfiche.documentation/en-us/Subsystems/ProcessAutomation/Content/Resources/Rules/Document-Merges/Preparing-a-Document-with-Merge-Fields.htm) (random example by Google Search)
@@ -63,8 +64,23 @@ Responsibilities:
 
 Techs:
 - Back-end: Java, Spring Boot, OpenAPI, JUnit, Maven
-- Database: Postgres
+- Database: PostgreSQL
 - Front-end: Angular, Material components, TypeScript, JS, HTML, SCSS
+
+### ubiID
+*A web app (portal) for end-users verify their identity by Passport (EU) or ID Card (specific for Switzerland and German)*<br>
+*A web-app (portal) for administrators to process the request from users to check their identity*<br>
+
+Requirement (brief): UI support multiple tenants and languages. Support multiple devices screen size for both Desktop and Mobile. Users can open an integrated or built-in camera/webcam to capture photos.
+
+Responsibilities:
+- Pioneer team for the first alpha release.
+- Front-end developer
+- Peer code review
+
+Techs:
+- Front-end: Angular, Material components, TypeScript, JS, HTML, SCSS
+- For the photos recognition, capturing and processing, we partner with [eID](https://www.electronicid.eu/en)
 
 ### CIC
 *Internal banking application for employees, gather information from their customers to complete forms, tasks. Create a complete flow for processing dossier of customer requests.*<br>
