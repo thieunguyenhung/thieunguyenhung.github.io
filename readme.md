@@ -9,7 +9,7 @@
 
 ## 🖥 Experience
 
-**Full-stack Developer** @ [Metro Digital](https://metro.digital/) (*Mar 2022 - Present*)
+**Full-stack Developer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
 - Implement new features and maintain existing projects in back-end (Java, Kotlin) and front-end (React).
 - Writing unit tests, Jest tests, functional tests.
 - Cross check and QA others user stories.
