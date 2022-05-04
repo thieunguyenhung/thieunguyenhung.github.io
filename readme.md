@@ -9,7 +9,13 @@
 
 ## 🖥 Experience
 
-**Java Software Engineer** @ [ubitec AG](https://ubitec.com/en/) (*Jan 2019 - Present*)
+**Full-stack Developer** @ [Metro Digital](https://metro.digital/) (*Mar 2022 - Present*)
+- Implement new features and maintain existing projects in back-end (Java, Kotlin) and front-end (React).
+- Writing unit tests, Jest tests, functional tests.
+- Cross check and QA others user stories.
+<br><br>
+
+**Java Software Engineer** @ [ubitec AG](https://ubitec.com/en/) (*Jan 2019 - Feb 2022*)
 - Implement back-end (Java) and front-end (Angular) for new projects.
 - Writing tests for the back-end (unit and integration test).
 - Setup Jenkins build job for new projects.
@@ -25,7 +31,7 @@
 - Peer code review with teammates.
 <br><br>
 
-**Full Stack Developer** @ [NewAI](https://newai.vn/) (*Apr 2017 - Dec 2017*)
+**Full-stack Developer** @ [NewAI](https://newai.vn/) (*Apr 2017 - Dec 2017*)
 - Implement back-end (Java) and front-end (PHP/Android) for new projects.
 - Create and deploy demo and dev environment based on Google Cloud (Kubernetes).
 - Optimize model for extracting text from photos (OCR).
