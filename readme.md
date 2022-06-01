@@ -57,6 +57,9 @@ Please check the [Projects](https://thieunguyenhung.github.io/projects) page
 **Vietnamese**: Native
 
 ## 📜 Certificates
+**Kotlin for Java Developers** - *[GQ4ULDYAWDVR](https://www.coursera.org/account/accomplishments/certificate/GQ4ULDYAWDVR)*<br>
+[Coursera](https://www.coursera.org/) (Jun 2022)
+
 **TOEIC 880** - *89233-61504 • SR811R150*<br>
 [IIG Vietnam](https://iigvietnam.com/en/) (Feb 2017)
 
