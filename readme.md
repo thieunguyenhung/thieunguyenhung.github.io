@@ -1,11 +1,10 @@
 # Thieu Nguyen Hung
-*Java and Angular developer with more than 4 years experienced working with various projects*<br>
+*Java, React and Angular developer with more than 5 years experienced working with various projects*<br>
 
 **Email:** [thieunguyenhung@gmail.com](mailto:thieunguyenhung@gmail.com)<br>
 **LinkedIn:** [linkedin.com/in/thieunguyenhung](https://www.linkedin.com/in/thieunguyenhung/)<br>
 **GitHub:** [github.com/thieunguyenhung](https://thieunguyenhung.github.io)<br>
 **Phone:** [0908 217 269](tel:+84908217269)<br>
-**Address:** Ho Chi Minh City, Vietnam<br>
 
 ## 🖥 Experience
 
@@ -46,8 +45,9 @@ Please check the [Projects](https://thieunguyenhung.github.io/projects) page
 ## ⭐ Skills
 **Languages:** Java, JS, TypeScript, HTML, SCSS<br>
 **Java Frameworks:** Spring Boot, Axon Ivy, Hibernate<br>
-**Build:** Maven, Gradle, Jenkins<br>
-**Web Frameworks:** Angular, ExpressJS<br>
+**CI/CD:** Jenkins, GoCD, GitHub Action<br>
+**Build:** Maven, Gradle<br>
+**Web Frameworks:** Angular, React, ExpressJS<br>
 **Testing:** JUnit, Testcontainers, Cucumber<br>
 **Database:** Oracle, MySQL, Postgres, MariaDB, H2, Liquibase<br>
 **Container Platforms:** Docker, Kubernetes<br>
@@ -60,6 +60,12 @@ Please check the [Projects](https://thieunguyenhung.github.io/projects) page
 **Vietnamese**: Native
 
 ## 📜 Certificates
+**Getting Started With Application Development** - *[EB8L49KCECGZ](https://www.coursera.org/account/accomplishments/certificate/EB8L49KCECGZ)*<br>
+[Coursera](https://www.coursera.org/) (October 2022)
+
+**Google Cloud Fundamentals: Core Infrastructure** - *[ZDCR5UNCJQDD](https://www.coursera.org/account/accomplishments/certificate/ZDCR5UNCJQDD)*<br>
+[Coursera](https://www.coursera.org/) (August 2022)
+
 **Kotlin for Java Developers** - *[GQ4ULDYAWDVR](https://www.coursera.org/account/accomplishments/certificate/GQ4ULDYAWDVR)*<br>
 [Coursera](https://www.coursera.org/) (Jun 2022)
 
