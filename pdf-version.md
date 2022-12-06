@@ -15,6 +15,8 @@
 - Migrate the build job from the old tool to GitHub Action with a built-in library (WaaS).
 - Cross-check and QA user stories.
 - Onboarding new team members.
+
+✦ ***[Metro.digital project's details](#metrodigital)***
 <br><br>
 
 **Java Software Engineer** @ [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
@@ -24,6 +26,8 @@
 - Create staging and dev environment based on Docker/OKD/OpenShift.
 - Peer code review with teammates.
 - Mentoring junior members.
+
+✦ ***[mesoneer AG project's details](#mesoneer-ag)***
 <br><br>
 
 **Java Software Engineer** @ [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)
@@ -31,6 +35,8 @@
 - Implement new features for existing projects.
 - Writing unit tests
 - Peer code review with teammates.
+
+✦ ***[Adnovum project's details](#adnovum)***
 <br><br>
 
 **Full-stack Developer** @ [NewAI](https://newai.vn/) (*Apr 2017 - Dec 2017*)
@@ -101,7 +107,7 @@
 
 ### Metro.digital
 #### SAM Domain
-*Web application for the users (Metro's salesman) to manage, create activities, and understand their customers*<br>
+*Web application for the internal users (Metro's salesman) to manage, create activities, and understand their customers*<br>
 
 Responsibilities:
 - Implement new features and maintain existing projects in the back-end and front-end.
