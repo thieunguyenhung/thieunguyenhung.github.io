@@ -3,7 +3,9 @@
 
 For my personal information, please check the main page [thieunguyenhung.github.io](https://thieunguyenhung.github.io/)<br>
 
-- [ubitec AG](#ubitec-ag)
+- [Metro.digital](#metrodigital)
+  - [SAM Domain](#sam-domain)
+- [mesoneer AG](#mesoneer-ag)
   - [DBH Card Module](#dbh-card-module)
   - [PSD2](#psd2)
   - [ubidoc-ng](#ubidoc-ng)
@@ -12,7 +14,25 @@ For my personal information, please check the main page [thieunguyenhung.github.
 - [Adnovum](#adnovum)
   - [STMP (IMO & IPM)](#stmp-imo--ipm)
 
-## ubitec AG
+## Metro.digital
+### SAM Domain
+*Web application for the users (Metro's salesman) to manage, create activities, and understand their customers*<br>
+
+Responsibilities:
+- Implement new features and maintain existing projects in the back-end and front-end.
+- Writing Unit, Integration, Jest, PACT, Functional tests.
+- Configuration and monitoring of the build pipelines (GoCD).
+- Migrate the build job from the old tool to GitHub Action with a built-in library (WaaS).
+- Cross-check and QA user stories.
+- Onboarding new team members.
+
+Techs/Tools:
+- Back-end: Java, Kotlin, Spring Boot, Gradle, Solr
+- CI/CD: GoCD, GitHub Action
+- Database: PostgreSQL, Cassandra
+- Front-end: React, TypeScript
+
+## mesoneer AG
 ### DBH Card Module
 *Web application (portal) for mobile-users to manage their bank cards*<br>
 
@@ -25,6 +45,7 @@ Responsibilities:
 
 Techs:
 - Back-end: Java, Spring Boot, OpenAPI, JUnit, Cucumber, Testcontainers, Gradle
+- CI/CD: Jenkins
 - Database: Oracle, MariaDB, PostgreSQL, H2, Liquibase
 - Front-end: Angular, TypeScript, HTML, JS, SCSS
 

@@ -10,14 +10,15 @@
 ## 🖥 Experience
 
 **Full-stack Developer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
-- Implement new features and maintain existing projects in back-end (Java, Kotlin) and front-end (React).
+- Implement new features and maintain existing projects in the back-end (Java, Kotlin) and front-end (React).
 - Writing Unit, Integration, Jest, PACT, Functional tests.
-- Configuration and monitoring the build pipelines (GoCD).
+- Configuration and monitoring of the build pipelines (GoCD).
 - Migrate the build job from the old tool to GitHub Action with a built-in library (WaaS).
-- Cross check and QA user-stories.
+- Cross-check and QA user stories.
+- Onboarding new team members.
 <br><br>
 
-**Java Software Engineer** @ [ubitec AG](https://ubitec.com/en/) (*Jan 2019 - Feb 2022*)
+**Java Software Engineer** @ [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
 - Implement back-end (Java) and front-end (Angular) for new projects.
 - Writing tests for the back-end (unit and integration test).
 - Setup Jenkins build job for new projects.
