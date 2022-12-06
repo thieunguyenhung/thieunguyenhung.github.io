@@ -99,9 +99,6 @@
 - [Adnovum](#adnovum)
   - [STMP (IMO & IPM)](#stmp-imo--ipm)
 
-<details>
-<summary>PLEASE EXPAND FOR MORE DETAILS</summary>
-
 ### Metro.digital
 #### SAM Domain
 *Web application for the users (Metro's salesman) to manage, create activities, and understand their customers*<br>
@@ -218,5 +215,3 @@ Techs:
 - Back-end: Java
 - Database: H2
 - Front-end: Eclipse RCP, SWT
-
-</details>
