@@ -100,7 +100,7 @@
   - [STMP (IMO & IPM)](#stmp-imo--ipm)
 
 <details>
-<summary>Please expand for more details</summary>
+<summary>PLEASE EXPAND FOR MORE DETAILS</summary>
 
 ### Metro.digital
 #### SAM Domain
