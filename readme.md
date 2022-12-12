@@ -6,7 +6,7 @@
 **GitHub:** [github.com/thieunguyenhung](https://thieunguyenhung.github.io)<br>
 **Phone:** [0908 217 269](tel:+84908217269)<br>
 
-### 🖨 [Please click here for printing version](https://thieunguyenhung.github.io/pdf-version)<br>
+<font size="4"> 🖨 [Please click here for printing version](https://thieunguyenhung.github.io/pdf-version)</font><br>
 
 ## 🖥 Experience
 
