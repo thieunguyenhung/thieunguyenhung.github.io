@@ -6,6 +6,8 @@
 **GitHub:** [github.com/thieunguyenhung](https://thieunguyenhung.github.io)<br>
 **Phone:** [0908 217 269](tel:+84908217269)<br>
 
+### 🖨 [Please click here for printing version](https://thieunguyenhung.github.io/pdf-version)<br>
+
 ## 🖥 Experience
 
 **Senior Software Engineer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
