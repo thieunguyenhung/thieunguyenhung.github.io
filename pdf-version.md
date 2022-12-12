@@ -8,7 +8,7 @@
 
 ## 🖥 Experience
 
-**Full-stack Developer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
+**Senior Software Engineer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
 - Implement new features and maintain existing projects in the back-end (Java, Kotlin) and front-end (React).
 - Writing Unit, Integration, Jest, PACT, Functional tests.
 - Configuration and monitoring of the build pipelines (GoCD).
@@ -19,7 +19,7 @@
 ✦ ***[Metro.digital project's details](#metrodigital)***
 <br><br>
 
-**Java Software Engineer** @ [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
+**Full-stack Developer** @ [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
 - Implement back-end (Java) and front-end (Angular) for new projects.
 - Writing tests for the back-end (unit and integration test).
 - Setup Jenkins build job for new projects.
