@@ -9,6 +9,19 @@
 ### 🖨 [Please click here for printing version](https://thieunguyenhung.github.io/pdf-version)
 <br>
 
+## ⭐ Skills
+**Languages:** Java, Kotlin, JavaScript, TypeScript, HTML, CSS<br>
+**Java Frameworks:** Spring Boot, Axon Ivy, Hibernate<br>
+**Web Frameworks:** Angular, React, ExpressJS<br>
+**CI/CD:** Jenkins, GoCD, GitHub Action<br>
+**Build:** Maven, Gradle<br>
+**Testing:** JUnit, Testcontainers, Cucumber<br>
+**Database:** Oracle, MySQL, Postgres, MariaDB, H2, Liquibase<br>
+**Container Platforms:** Docker, Kubernetes<br>
+**Cloud:** AWS, Google Cloud<br>
+**SVC:** Git, SVN<br>
+**Principles:** OOP, MVC, S.O.L.I.D, Android Studio, XML
+
 ## 🖥 Experience
 
 **Senior Software Engineer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
@@ -44,19 +57,6 @@
 
 ## 📦 Projects
 Please check the [Projects](https://thieunguyenhung.github.io/projects) page
-
-## ⭐ Skills
-**Languages:** Java, JS, TypeScript, HTML, SCSS<br>
-**Java Frameworks:** Spring Boot, Axon Ivy, Hibernate<br>
-**CI/CD:** Jenkins, GoCD, GitHub Action<br>
-**Build:** Maven, Gradle<br>
-**Web Frameworks:** Angular, React, ExpressJS<br>
-**Testing:** JUnit, Testcontainers, Cucumber<br>
-**Database:** Oracle, MySQL, Postgres, MariaDB, H2, Liquibase<br>
-**Container Platforms:** Docker, Kubernetes<br>
-**Cloud:** AWS, Google Cloud<br>
-**SVC:** Git, SVN<br>
-**Miscellaneous:** OOP, MVC, S.O.L.I.D, Android Studio, XML
 
 ## 💬 Languages
 **English**: Professional fluently<br>

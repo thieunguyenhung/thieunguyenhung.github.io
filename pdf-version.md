@@ -6,6 +6,19 @@
 **GitHub:** [github.com/thieunguyenhung](https://thieunguyenhung.github.io)<br>
 **Phone:** [0908 217 269](tel:+84908217269)<br>
 
+## ⭐ Skills
+**Languages:** Java, Kotlin, JavaScript, TypeScript, HTML, CSS<br>
+**Java Frameworks:** Spring Boot, Axon Ivy, Hibernate<br>
+**Web Frameworks:** Angular, React, ExpressJS<br>
+**CI/CD:** Jenkins, GoCD, GitHub Action<br>
+**Build:** Maven, Gradle<br>
+**Testing:** JUnit, Testcontainers, Cucumber<br>
+**Database:** Oracle, MySQL, Postgres, MariaDB, H2, Liquibase<br>
+**Container Platforms:** Docker, Kubernetes<br>
+**Cloud:** AWS, Google Cloud<br>
+**SVC:** Git, SVN<br>
+**Principles:** OOP, MVC, S.O.L.I.D, Android Studio, XML
+
 ## 🖥 Experience
 
 **Senior Software Engineer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
@@ -44,19 +57,6 @@
 - Create and deploy demo and dev environment based on Google Cloud (Kubernetes).
 - Optimize model for extracting text from photos (OCR).
 - Optimize result layout in PDF for end-user.
-
-## ⭐ Skills
-**Languages:** Java, JS, TypeScript, HTML, SCSS<br>
-**Java Frameworks:** Spring Boot, Axon Ivy, Hibernate<br>
-**CI/CD:** Jenkins, GoCD, GitHub Action<br>
-**Build:** Maven, Gradle<br>
-**Web Frameworks:** Angular, React, ExpressJS<br>
-**Testing:** JUnit, Testcontainers, Cucumber<br>
-**Database:** Oracle, MySQL, Postgres, MariaDB, H2, Liquibase<br>
-**Container Platforms:** Docker, Kubernetes<br>
-**Cloud:** AWS, Google Cloud<br>
-**SVC:** Git, SVN<br>
-**Miscellaneous:** OOP, MVC, S.O.L.I.D, Android Studio, XML
 
 ## 💬 Languages
 **English**: Professional fluently<br>
