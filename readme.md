@@ -1,4 +1,3 @@
-# Thieu Nguyen Hung
 *Java, React and Angular developer with more than 5 years experienced working with various projects*<br>
 
 **Email:** [thieunguyenhung@gmail.com](mailto:thieunguyenhung@gmail.com)<br>
