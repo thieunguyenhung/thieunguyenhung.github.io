@@ -1,4 +1,4 @@
-*Java, React and Angular developer with more than 5 years experienced working with various projects*<br>
+*Java, React and Angular developer with more than 6 years experienced working with various projects*<br>
 
 **Email:** [thieunguyenhung@gmail.com](mailto:thieunguyenhung@gmail.com)<br>
 **LinkedIn:** [linkedin.com/in/thieunguyenhung](https://www.linkedin.com/in/thieunguyenhung/)<br>
@@ -7,54 +7,56 @@
 
 ## ⭐ Skills
 **Languages:** Java, Kotlin, JavaScript, TypeScript, HTML, CSS<br>
-**Java Frameworks:** Spring Boot, Axon Ivy, Hibernate<br>
-**Web Frameworks:** Angular, React, ExpressJS<br>
-**CI/CD:** Jenkins, GoCD, GitHub Action<br>
-**Build:** Maven, Gradle<br>
-**Testing:** JUnit, Testcontainers, Cucumber<br>
+**RESTful API:** API versioning, HTTP methods, JSON/XML, Error handling, Pagination<br>
+**Frameworks:** Spring Boot, Angular, React<br>
+**Principles:** Agile, Object-Oriented Programming, Model–View–Controller, S.O.L.I.D<br>
+**Testing:** JUnit, Integration, Performance, A/B, Contract, Testcontainers, Cucumber<br>
 **Database:** Oracle, MySQL, Postgres, MariaDB, H2, Liquibase<br>
+**CI/CD:** Jenkins, GitHub Action, GoCD<br>
 **Container Platforms:** Docker, Kubernetes<br>
 **Cloud:** AWS, Google Cloud<br>
 **SVC:** Git, SVN<br>
-**Principles:** OOP, MVC, S.O.L.I.D, Android Studio, XML
+**Build Tools:** Maven, Gradle<br>
 
 ## 🖥 Experience
 
 **Senior Software Engineer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
-- Implement new features and maintain existing projects in the back-end (Java, Kotlin) and front-end (React).
-- Writing Unit, Integration, Jest, PACT, Functional tests.
-- Configuration and monitoring of the build pipelines (GoCD).
-- Migrate the build job from the old tool to GitHub Action with a built-in library (WaaS).
-- Cross-check and QA user stories.
-- Onboarding new team members.
+- Implement new features and maintain existing projects in the back-end (**Java, Kotlin**) and front-end (**React**).
+- Develop and update end-points (**RESTful API**) to communicate with front-end and other services.
+- Ensured proper functionality of endpoints by writing **Integration test** and **Unit test**.
+- Write and receive application data to/from the **Database** using **PostgreSQL** and **Cassandra**.
+- Applied **CI/CD** with **GitHub Action** and **GoCD**.
+- Implement new UI features with **Typescript, HTML, CSS, JavaScript** based on schema from UX Team.
+- Cross-check pull requests, user stories, pair programming, onboarding new team members.
 
 ✦ ***[Metro.digital project's details](#metrodigital)***
 <br><br>
 
 **Full-stack Developer** @ [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
-- Implement back-end (Java) and front-end (Angular) for new projects.
-- Writing tests for the back-end (unit and integration test).
-- Setup Jenkins build job for new projects.
-- Create staging and dev environment based on Docker/OKD/OpenShift.
-- Peer code review with teammates.
-- Mentoring junior members.
+- Implement back-end (**Java**) and front-end (**Angular**) for new projects.
+- Writing tests for the back-end **Unit** and **Integration test**.
+- Write and receive application data to/from the **Database** using **Oracle Database**.
+- Develop and update end-points (**RESTful API**) to communicate with front-end and other services.
+- Setup **Jenkins** build job for new projects.
+- Create staging and dev environment based on **Docker**, **OKD/OpenShift**.
+- Peer code review with teammates and mentoring junior members.
 
 ✦ ***[mesoneer AG project's details](#mesoneer-ag)***
 <br><br>
 
 **Java Software Engineer** @ [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)
-- Maintenance of existing projects.
-- Implement new features for existing projects.
-- Writing unit tests
+- Implement new features and maintenance of existing projects (**Java**).
+- Implement and fix UI (**Eclipse RCP**).
+- Writing **Unit tests**
 - Peer code review with teammates.
 
 ✦ ***[Adnovum project's details](#adnovum)***
 <br><br>
 
 **Full-stack Developer** @ [NewAI](https://newai.vn/) (*Apr 2017 - Dec 2017*)
-- Implement back-end (Java) and front-end (PHP/Android) for new projects.
-- Create and deploy demo and dev environment based on Google Cloud (Kubernetes).
-- Optimize model for extracting text from photos (OCR).
+- Implement back-end (**Java**) and front-end (**PHP/Android**) for new projects.
+- Create and deploy demo and dev environment based on **Google Cloud (Kubernetes)**.
+- Optimize model for extracting text from photos (**OCR**).
 - Optimize result layout in PDF for end-user.
 
 ## 💬 Languages
