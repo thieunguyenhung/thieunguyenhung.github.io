@@ -1,22 +1,30 @@
-*Java, React and Angular developer with more than 6 years experienced working with various projects*<br>
+# Hung Thieu
+*Full stack developer with more than 6 years of experience working on various projects*<br>
 
 **Email:** [thieunguyenhung@gmail.com](mailto:thieunguyenhung@gmail.com)<br>
 **LinkedIn:** [linkedin.com/in/thieunguyenhung](https://www.linkedin.com/in/thieunguyenhung/)<br>
 **GitHub:** [github.com/thieunguyenhung](https://thieunguyenhung.github.io)<br>
-**Phone:** [0908 217 269](tel:+84908217269)<br>
+**Phone:** [+84 908 217 269](tel:+84908217269)<br>
 
-## ⭐ Skills
-**Languages:** Java, Kotlin, JavaScript, TypeScript, HTML, CSS<br>
-**RESTful API:** API versioning, HTTP methods, JSON/XML, Error handling, Pagination<br>
-**Frameworks:** Spring Boot, Angular, React<br>
-**Principles:** Agile, Object-Oriented Programming, Model–View–Controller, S.O.L.I.D<br>
-**Testing:** JUnit, Integration, Performance, A/B, Contract, Testcontainers, Cucumber<br>
-**Database:** Oracle, MySQL, Postgres, MariaDB, H2, Liquibase<br>
-**CI/CD:** Jenkins, GitHub Action, GoCD<br>
-**Container Platforms:** Docker, Kubernetes<br>
-**Cloud:** AWS, Google Cloud<br>
-**SVC:** Git, SVN<br>
-**Build Tools:** Maven, Gradle<br>
+## 💪 Hard Skills
+- **Software Architectures:** Microservices, Monolithic
+- **Programming Languages:** Java (8/11), Kotlin, JavaScript, TypeScript, HTML, CSS
+- **RESTful API:** Develop RESTful API with JSON/XML, Pagination, API versioning, HTTP methods, Error handling
+- **Web App Development:** React, Angular
+- **Cloud:** AWS, Google Cloud
+- **Database:** Joining tables, SQL Script Procedure with OracleDB, PostgreSQL, MySQL, H2
+- **Testing:** React Testing Library, JUnit, Integration, Performance, A/B, Contract, Testcontainers, Cucumber
+- **Container Platforms:** Docker, Kubernetes
+- **Message broker:** RabbitMQ, Kafka
+- **CI/CD:** Jenkins, GitHub Action, GoCD
+- **Principles:** OOP, AOP, MVC, S.O.L.I.D, Agile
+- **SVC:** Git, SVN
+
+## ⭐ Soft Skills
+- Communication and Listening
+- Problem-solving and Critical thinking
+- Collaboration and Responsibility
+- Open and Growth mindset
 
 ## 🖥 Experience
 
@@ -29,7 +37,7 @@
 - Implement new UI features with **Typescript, HTML, CSS, JavaScript** based on schema from UX Team.
 - Cross-check pull requests, user stories, pair programming, onboarding new team members.
 
-✦ ***[Metro.digital project's details](#metrodigital)***
+✦ ***[Metro.digital project's details](#metrodigital)*** (click to jump)
 <br><br>
 
 **Full-stack Developer** @ [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
@@ -41,7 +49,7 @@
 - Create staging and dev environment based on **Docker**, **OKD/OpenShift**.
 - Peer code review with teammates and mentoring junior members.
 
-✦ ***[mesoneer AG project's details](#mesoneer-ag)***
+✦ ***[mesoneer AG project's details](#mesoneer-ag)*** (click to jump)
 <br><br>
 
 **Java Software Engineer** @ [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)
@@ -50,7 +58,7 @@
 - Writing **Unit tests**
 - Peer code review with teammates.
 
-✦ ***[Adnovum project's details](#adnovum)***
+✦ ***[Adnovum project's details](#adnovum)*** (click to jump)
 <br><br>
 
 **Full-stack Developer** @ [NewAI](https://newai.vn/) (*Apr 2017 - Dec 2017*)
@@ -58,6 +66,12 @@
 - Create and deploy demo and dev environment based on **Google Cloud (Kubernetes)**.
 - Optimize model for extracting text from photos (**OCR**).
 - Optimize result layout in PDF for end-user.
+
+**Teaching Assistant** @ [Ton Duc Thang University](https://www.tdtu.edu.vn/) (*Nov 2015 - May 2016*)
+- Helping students to understand their exercises.
+- Helping the teacher to prepare the homework.
+- Helping some students who need extra support to complete their exercises.
+- Explaining the lessons to some students who do not understand.
 
 ## 💬 Languages
 **English**: Professional fluently<br>
@@ -119,6 +133,7 @@ Responsibilities:
 - Onboarding new team members.
 
 Techs/Tools:
+- Architectures: Microservices
 - Back-end: Java, Kotlin, Spring Boot, Gradle, Solr
 - CI/CD: GoCD, GitHub Action
 - Database: PostgreSQL, Cassandra
@@ -136,6 +151,7 @@ Responsibilities:
 - Peer code review
 
 Techs:
+- Architectures: Microservices
 - Back-end: Java, Spring Boot, OpenAPI, JUnit, Cucumber, Testcontainers, Gradle
 - CI/CD: Jenkins
 - Database: Oracle, MariaDB, PostgreSQL, H2, Liquibase
@@ -155,6 +171,7 @@ Responsibilities:
 - Peer code review
 
 Techs:
+- Architectures: Microservices
 - Back-end: Java, Spring Boot, OpenAPI, JUnit, Maven
 - Database: PostgreSQL
 - Front-end: Express.js, HTML, JS, CSS
@@ -205,6 +222,7 @@ Responsibilities:
 - Peer code review
 
 Techs:
+- Architectures: Microservices
 - Back-end: Java, Axon Ivy, OpenAPI, Maven
 - Database: Oracle Database
 - Front-end: Angular, Material components, TypeScript, JS, HTML, SCSS
@@ -219,6 +237,7 @@ Responsibilities:
 - Unit testing
 
 Techs:
+- Architectures: Monolithic
 - Back-end: Java
 - Database: H2
 - Front-end: Eclipse RCP, SWT
