@@ -1,9 +1,10 @@
 # Hung Thieu
-*Full stack developer with more than 6 years of experience working on various projects*<br>
+***Senior Software Engineer with 7 years of experience contributing to diverse software projects.***<br>
 
 **Email:** [thieunguyenhung@gmail.com](mailto:thieunguyenhung@gmail.com)<br>
 **LinkedIn:** [linkedin.com/in/thieunguyenhung](https://www.linkedin.com/in/thieunguyenhung/)<br>
-**GitHub:** [github.com/thieunguyenhung](https://thieunguyenhung.github.io)<br>
+**GitHub:** [github.com/thieunguyenhung](https://github.com/thieunguyenhung)<br>
+**Portfolio:** [thieunguyenhung.github.io](https://thieunguyenhung.github.io)<br>
 **Phone:** [+84 908 217 269](tel:+84908217269)<br>
 
 ## 💪 Hard Skills
@@ -12,10 +13,11 @@
 - **RESTful API:** Develop RESTful API with JSON/XML, Pagination, API versioning, HTTP methods, Error handling
 - **Web App Development:** React, Angular
 - **Cloud:** AWS, Google Cloud
+- **Monitoring** Datadog, Crosscheck logs to find bugs
 - **Database:** Joining tables, SQL Script Procedure with OracleDB, PostgreSQL, MySQL, H2
 - **Testing:** React Testing Library, JUnit, Integration, Performance, A/B, Contract, Testcontainers, Cucumber
 - **Container Platforms:** Docker, Kubernetes
-- **Message broker:** RabbitMQ, Kafka
+- **Message broker:** Kafka, RabbitMQ
 - **CI/CD:** Jenkins, GitHub Action, GoCD
 - **Principles:** OOP, AOP, MVC, S.O.L.I.D, Agile
 - **SVC:** Git, SVN
@@ -29,13 +31,17 @@
 ## 🖥 Experience
 
 **Senior Software Engineer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
-- Implement new features and maintain existing projects in the back-end (**Java, Kotlin**) and front-end (**React**).
-- Develop and update end-points (**RESTful API**) to communicate with front-end and other services.
-- Ensured proper functionality of endpoints by writing **Integration test** and **Unit test**.
-- Write and receive application data to/from the **Database** using **PostgreSQL** and **Cassandra**.
+- Develop new features and provide ongoing maintenance for existing projects in the back-end using **Java, Kotlin**, as well as in the front-end using **React**.
+- Develop and update end-points **RESTful API** to facilitate communication between the front-end and other services.
+- Ensured proper functionality of endpoints by writing **Integration** and **Unit** test.
+- Engaging with user bug tickets (referred to as Firefighting work), cross-checking service logs, and releasing hotfixes.
+- Generate user stories addressing Technical Debt based on the observations and insights gained during the Firefighting work.
+- Create and maintaince **Kubernetes** deployment **YAML** file.
 - Applied **CI/CD** with **GitHub Action** and **GoCD**.
+- Write and receive application data to/from the **Database** using **PostgreSQL** and **Cassandra**.
 - Implement new UI features with **Typescript, HTML, CSS, JavaScript** based on schema from UX Team.
-- Cross-check pull requests, user stories, pair programming, onboarding new team members.
+- Onboarding and pair programming with new team members.
+- Cross-check pull requests, user stories.
 
 ✦ ***[Metro.digital project's details](#metrodigital)*** (click to jump)
 <br><br>
@@ -129,13 +135,16 @@ Responsibilities:
 - Writing Unit, Integration, Jest, PACT, Functional tests.
 - Configuration and monitoring of the build pipelines (GoCD).
 - Migrate the build job from the old tool to GitHub Action with a built-in library (WaaS).
-- Cross-check and QA user stories.
+- Engaging with user bug tickets (referred to as Firefighting work), cross-checking service logs, and releasing hotfixes.
+- Generate user stories addressing Technical Debt based on the observations and insights gained during the Firefighting work.
+- Onboarding and pair programming with new team members.
 - Onboarding new team members.
 
 Techs/Tools:
 - Architectures: Microservices
 - Back-end: Java, Kotlin, Spring Boot, Gradle, Solr
 - CI/CD: GoCD, GitHub Action
+- Cloud: Kubernetes, GCP
 - Database: PostgreSQL, Cassandra
 - Front-end: React, TypeScript
 
