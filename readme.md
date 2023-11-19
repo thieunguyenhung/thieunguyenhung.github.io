@@ -30,7 +30,8 @@
 
 ## 🖥 Experience
 
-**Senior Software Engineer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
+**Senior Software Engineer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)<br>
+*Berlin, Germany · Remote*
 - Develop new features and provide ongoing maintenance for existing projects in the back-end using **Java, Kotlin**, as well as in the front-end using **React**.
 - Develop and update end-points **RESTful API** to facilitate communication between the front-end and other services.
 - Ensured proper functionality of endpoints by writing **Integration** and **Unit** test.
@@ -46,7 +47,8 @@
 ✦ ***[Metro.digital project's details](#metrodigital)*** (click to jump)
 <br><br>
 
-**Full-stack Developer** @ [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
+**Full-stack Developer** @ [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)<br>
+*Zürich, Switzerland · Remote*
 - Implement back-end (**Java**) and front-end (**Angular**) for new projects.
 - Writing tests for the back-end **Unit** and **Integration test**.
 - Write and receive application data to/from the **Database** using **Oracle Database**.
@@ -58,7 +60,8 @@
 ✦ ***[mesoneer AG project's details](#mesoneer-ag)*** (click to jump)
 <br><br>
 
-**Java Software Engineer** @ [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)
+**Java Software Engineer** @ [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)<br>
+*Saigon, Vietnam · Onsite*
 - Implement new features and maintenance of existing projects (**Java**).
 - Implement and fix UI (**Eclipse RCP**).
 - Writing **Unit tests**
