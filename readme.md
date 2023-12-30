@@ -87,6 +87,9 @@
 **Vietnamese**: Native
 
 ## 📜 Certificates
+**Technical Team Lead** - *[U069YKJLTLJ](https://certs.principal.dev/27x/U069YKJLTLJ)*<br>
+[The Principal Dev](https://principal.dev/) (December 2023)
+
 **Getting Started With Application Development** - *[EB8L49KCECGZ](https://www.coursera.org/account/accomplishments/certificate/EB8L49KCECGZ)*<br>
 [Coursera](https://www.coursera.org/) (October 2022)
 
