@@ -30,6 +30,15 @@
 
 ## 🖥 Experience
 
+**Technical Lead** @ [Metro.digital](https://metro.digital/) (*Jan 2024 - Present*)<br>
+*Berlin, Germany · Remote*
+- **Cross-Team Collaboration:** Engage in collaborative initiatives with Technical Leads from diverse teams, fostering a culture of knowledge exchange and continuous improvement for enhanced teamwork and individual development.
+- **Architectural Contribution:** Phaping the design and architecture of the team's projects, collaborating with other teams and contributing to overall Software Architecture.
+- **Stakeholder Collaboration:** Work closely with the Product Owner and stakeholders to refine requirements and implement features that enhance the solution.
+- **Performance Optimization:** Implement monitoring practices to optimize system performance, scalability, and reliability. Uphold defined SLAs and SLOs to meet expectations.
+- **Leadership:** Provide technical guidance and leadership to the development team, ensuring alignment with project objectives and technical standards.
+- **Mentorship:** Stay close and help team members, and perform monthly check-ins, dedicated to cultivating their professional growth and fostering the development of essential skills.
+
 **Senior Software Engineer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)<br>
 *Berlin, Germany · Remote*
 - Develop new features and provide ongoing maintenance for existing projects in the back-end using **Java, Kotlin**, as well as in the front-end using **React**.
