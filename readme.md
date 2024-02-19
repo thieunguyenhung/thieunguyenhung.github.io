@@ -59,7 +59,7 @@
 <br><br>
 
 **Full-stack Developer** @ [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)<br>
-*Zürich, Switzerland · Remote*
+*Zürich, Switzerland · Hybrid*
 - Implement back-end (**Java**) and front-end (**Angular**) for new projects.
 - Writing tests for the back-end **Unit** and **Integration test**.
 - Write and receive application data to/from the **Database** using **Oracle Database**.

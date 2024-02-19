@@ -54,12 +54,10 @@
 - Implement new UI features with **Typescript, HTML, CSS, JavaScript** based on schema from UX Team.
 - Onboarding and pair programming with new team members.
 - Cross-check pull requests, user stories.
-
-✦ ***[Metro.digital project's details](#metrodigital)*** (click to jump)
 <br><br>
 
 **Full-stack Developer** @ [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)<br>
-*Zürich, Switzerland · Remote*
+*Zürich, Switzerland · Hybrid*
 - Implement back-end (**Java**) and front-end (**Angular**) for new projects.
 - Writing tests for the back-end **Unit** and **Integration test**.
 - Write and receive application data to/from the **Database** using **Oracle Database**.
@@ -67,8 +65,6 @@
 - Setup **Jenkins** build job for new projects.
 - Create staging and dev environment based on **Docker**, **OKD/OpenShift**.
 - Peer code review with teammates and mentoring junior members.
-
-✦ ***[mesoneer AG project's details](#mesoneer-ag)*** (click to jump)
 <br><br>
 
 **Java Software Engineer** @ [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)<br>
@@ -77,8 +73,6 @@
 - Implement and fix UI (**Eclipse RCP**).
 - Writing **Unit tests**
 - Peer code review with teammates.
-
-✦ ***[Adnovum project's details](#adnovum)*** (click to jump)
 <br><br>
 
 **Full-stack Developer** @ [NewAI](https://newai.vn/) (*Apr 2017 - Dec 2017*)
@@ -128,3 +122,8 @@
 ## 🎓 Education
 **Bachelor** in **Computer Science**<br>
 [Ton Duc Thang University](https://tdtu.edu.vn/) - Ho Chi Minh City, Viet Nam (2013 - 2017)
+
+## 📦 Projects
+
+Official projects that I have participated in as a full-time employee for companies<br>
+Please refer to [my portfolio](https://thieunguyenhung.github.io/projects) for more details
