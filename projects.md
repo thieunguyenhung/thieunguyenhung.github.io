@@ -18,16 +18,15 @@ Official projects that I have participated in as a full-time employee for compan
 
 ### Metro.digital
 #### SAM Domain
-*Web application for the internal users (Metro's salesman) to manage, create activities, and understand their customers*<br>
+*Web application for the internal users (sales team) to manage, create activities, and understand their customers*<br>
 
 Responsibilities:
 - Technical Lead
-  - **Cross-Team Collaboration:** Engage in collaborative initiatives with Technical Leads from diverse teams, fostering a culture of knowledge exchange and continuous improvement for enhanced teamwork and individual development.
-  - **Architectural Contribution:** Shaping the design and architecture of the team's projects, collaborating with other teams and contributing to overall Software Architecture.
-  - **Stakeholder Collaboration:** Work closely with the Product Owner and stakeholders to refine requirements and implement features that enhance the solution.
-  - **Performance Optimization:** Implement monitoring practices to optimize system performance, scalability, and reliability. Uphold defined SLAs and SLOs to meet expectations.
-  - **Leadership:** Provide technical guidance and leadership to the development team, ensuring alignment with project objectives and technical standards.
-  - **Team Development:** Stay close and help team members, and perform monthly check-ins, dedicated to cultivating their professional growth and fostering the development of essential skills.
+  - Engage in collaborative initiatives with Technical Leads from diverse teams.
+  - Shaping the design and architecture of the team's projects, collaborating with other teams and contributing to overall Software Architecture.
+  - Work closely with the Product Owner and stakeholders to refine requirements and implement features that enhance the solution.
+  - Stay close and help team members, provide technical guidance, fostering a culture of knowledge exchange and continuous improvement for enhanced teamwork and individual development of essential skills.
+  - Implement monitoring practices to optimize system performance, scalability, and reliability.
 - Sr. Software Engineer
   - Implement new features and maintain existing projects in the back-end and front-end.
   - Writing Unit, Integration, Jest, PACT, Functional tests.
@@ -35,12 +34,12 @@ Responsibilities:
   - Migrate the build job from the old tool to GitHub Action with a built-in library (WaaS).
   - Engaging with user bug tickets (referred to as Firefighting work), cross-checking service logs, and releasing hotfixes.
   - Generate user stories addressing Technical Debt based on the observations and insights gained during the Firefighting work.
-  - Onboarding and pair programming with new team members.
-  - Onboarding new team members.
+  - Pair programming team members.
+  - Onboarding new members.
 
 Techs/Tools:
 - Architectures: Microservices
-- Back-end: Java, Kotlin, Spring Boot, Gradle, Solr
+- Back-end: Java, Kotlin, Spring Boot, Gradle, Solr, Elastic Search
 - CI/CD: GoCD, GitHub Action
 - Cloud: Kubernetes, GCP
 - Database: PostgreSQL, Cassandra

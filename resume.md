@@ -32,17 +32,17 @@
 
 ## 🖥 Experience
 
-**Technical Lead** @ [Metro.digital](https://metro.digital/) (*Jan 2024 - Present*)<br>
+### [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
 *Berlin, Germany · Remote*
-- **Cross-Team Collaboration:** Engage in collaborative initiatives with Technical Leads from diverse teams, fostering a culture of knowledge exchange and continuous improvement for enhanced teamwork and individual development.
-- **Architectural Contribution:** Shaping the design and architecture of the team's projects, collaborating with other teams and contributing to overall Software Architecture.
-- **Stakeholder Collaboration:** Work closely with the Product Owner and stakeholders to refine requirements and implement features that enhance the solution.
-- **Performance Optimization:** Implement monitoring practices to optimize system performance, scalability, and reliability. Uphold defined SLAs and SLOs to meet expectations.
-- **Leadership:** Provide technical guidance and leadership to the development team, ensuring alignment with project objectives and technical standards.
-- **Team Development:** Stay close and help team members, and perform monthly check-ins, dedicated to cultivating their professional growth and fostering the development of essential skills.
 
-**Senior Software Engineer** @ [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)<br>
-*Berlin, Germany · Remote*
+**Technical Lead** (*Jan 2024 - Present*)<br>
+- **Cross-Team Collaboration:** Engage in collaborative initiatives with Technical Leads from diverse teams.
+- **Architectural Contribution:** Shaping the design and architecture of the team's projects, collaborating with other teams and contributing to overall Software Architecture.
+- **Business Collaboration:** Work closely with the Product Owner and stakeholders to refine requirements and implement features that enhance the solution.
+- **Team Development:** Stay close and help team members, provide technical guidance, fostering a culture of knowledge exchange and continuous improvement for enhanced teamwork and individual development of essential skills.
+- **Performance Optimization:** Implement monitoring practices to optimize system performance, scalability, and reliability.
+
+**Senior Software Engineer** (*Mar 2022 - Present*)<br>
 - Develop new features and provide ongoing maintenance for existing projects in the back-end using **Java, Kotlin**, as well as in the front-end using **React**.
 - Develop and update end-points **RESTful API** to facilitate communication between the front-end and other services.
 - Ensured proper functionality of endpoints by writing **Integration** and **Unit** test.
@@ -52,12 +52,13 @@
 - Applied **CI/CD** with **GitHub Action** and **GoCD**.
 - Write and receive application data to/from the **Database** using **PostgreSQL** and **Cassandra**.
 - Implement new UI features with **Typescript, HTML, CSS, JavaScript** based on schema from UX Team.
-- Onboarding and pair programming with new team members.
+- Onboarding and pair programming with team members.
 - Cross-check pull requests, user stories.
-<br><br>
 
-**Full-stack Developer** @ [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)<br>
+### [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
 *Zürich, Switzerland · Hybrid*
+
+**Full-stack Developer**
 - Implement back-end (**Java**) and front-end (**Angular**) for new projects.
 - Writing tests for the back-end **Unit** and **Integration test**.
 - Write and receive application data to/from the **Database** using **Oracle Database**.
@@ -65,23 +66,29 @@
 - Setup **Jenkins** build job for new projects.
 - Create staging and dev environment based on **Docker**, **OKD/OpenShift**.
 - Peer code review with teammates and mentoring junior members.
-<br><br>
 
-**Java Software Engineer** @ [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)<br>
+### [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)
 *Saigon, Vietnam · Onsite*
+
+**Java Software Engineer**
 - Implement new features and maintenance of existing projects (**Java**).
 - Implement and fix UI (**Eclipse RCP**).
 - Writing **Unit tests**
 - Peer code review with teammates.
-<br><br>
 
-**Full-stack Developer** @ [NewAI](https://newai.vn/) (*Apr 2017 - Dec 2017*)
+### [NewAI](https://newai.vn/) (*Apr 2017 - Dec 2017*)
+*Saigon, Vietnam · Onsite*
+
+**Full-stack Developer**
 - Implement back-end (**Java**) and front-end (**PHP/Android**) for new projects.
 - Create and deploy demo and dev environment based on **Google Cloud (Kubernetes)**.
 - Optimize model for extracting text from photos (**OCR**).
 - Optimize result layout in PDF for end-user.
 
-**Teaching Assistant** @ [Ton Duc Thang University](https://www.tdtu.edu.vn/) (*Nov 2015 - May 2016*)
+### [Ton Duc Thang University](https://www.tdtu.edu.vn/) (*Nov 2015 - May 2016*)
+*Saigon, Vietnam · Onsite*
+
+**Teaching Assistant**
 - Helping students to understand their exercises.
 - Helping the teacher to prepare the homework.
 - Helping some students who need extra support to complete their exercises.
