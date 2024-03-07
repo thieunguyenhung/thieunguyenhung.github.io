@@ -101,8 +101,10 @@
 - Explaining the lessons to some students who do not understand.
 
 ## 💬 Languages
-**English**: Professional fluently<br>
-**Vietnamese**: Native
+**Vietnamese**: Native<br>
+**English**: Professional fluently
+- TOEIC 880 (Feb 2017)
+- IELTS 7.0 (Jan 2024)
 
 ## 📜 Certificates
 **Technical Team Lead** - *[U069YKJLTLJ](https://certs.principal.dev/27x/U069YKJLTLJ)*<br>
@@ -117,9 +119,6 @@
 **Kotlin for Java Developers** - *[GQ4ULDYAWDVR](https://www.coursera.org/account/accomplishments/certificate/GQ4ULDYAWDVR)*<br>
 [Coursera](https://www.coursera.org/) (Jun 2022)
 
-**TOEIC 880** - *89233-61504 • SR811R150*<br>
-[IIG Vietnam](https://iigvietnam.com/en/) (Feb 2017)
-
 **Android Programmer Certificate** - *TT/M/2016/000565*<br>
 [University of Science Ho Chi Minh City](https://csc.edu.vn/) (Oct 2016)
 
@@ -133,7 +132,7 @@
 [GDG Vietnam](https://gdg.community.dev/gdg-ho-chi-minh-city/) (Mar 2016)
 
 ## 🎓 Education
-**Bachelor** in **Computer Science**<br>
+**Bachelor** in **Computer Science** - ***GPA: 8/10***<br>
 [Ton Duc Thang University](https://tdtu.edu.vn/) - Ho Chi Minh City, Viet Nam (2013 - 2017)
 
 ## 📦 Projects
