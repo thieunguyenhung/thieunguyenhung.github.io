@@ -107,33 +107,36 @@
 - IELTS 7.0 (Jan 2024)
 
 ## 📜 Certificates
-**Technical Team Lead** - *[U069YKJLTLJ](https://certs.principal.dev/27x/U069YKJLTLJ)*<br>
-[The Principal Dev](https://principal.dev/) (December 2023)
+**iSAQB® Certified Professional for Software Architecture - Foundation Level**<br>
+*[A8F384AFABBD - Certible](https://www.certible.com/badge/4d3d688e-f6ac-4b1c-8d4e-a8f384afabbd/) (Mar 2024)*
 
-**Getting Started With Application Development** - *[EB8L49KCECGZ](https://www.coursera.org/account/accomplishments/certificate/EB8L49KCECGZ)*<br>
-[Coursera](https://www.coursera.org/) (October 2022)
+**Technical Team Lead**<br>
+*[U069YKJLTLJ - The Principal Dev](https://certs.principal.dev/27x/U069YKJLTLJ) (December 2023)*
 
-**Google Cloud Fundamentals: Core Infrastructure** - *[ZDCR5UNCJQDD](https://www.coursera.org/account/accomplishments/certificate/ZDCR5UNCJQDD)*<br>
-[Coursera](https://www.coursera.org/) (August 2022)
+**Getting Started With Application Development**<br>
+*[EB8L49KCECGZ - Coursera](https://www.coursera.org/account/accomplishments/certificate/EB8L49KCECGZ) (October 2022)*
 
-**Kotlin for Java Developers** - *[GQ4ULDYAWDVR](https://www.coursera.org/account/accomplishments/certificate/GQ4ULDYAWDVR)*<br>
-[Coursera](https://www.coursera.org/) (Jun 2022)
+**Google Cloud Fundamentals: Core Infrastructure**<br>
+*[ZDCR5UNCJQDD - Coursera](https://www.coursera.org/account/accomplishments/certificate/ZDCR5UNCJQDD) (August 2022)*
 
-**Android Programmer Certificate** - *TT/M/2016/000565*<br>
-[University of Science Ho Chi Minh City](https://csc.edu.vn/) (Oct 2016)
+**Kotlin for Java Developers**<br>
+*[GQ4ULDYAWDVR - Coursera](https://www.coursera.org/account/accomplishments/certificate/GQ4ULDYAWDVR) (Jun 2022)*
 
-**Global Software Talent of FSOFT** - *FSOFT_GST_1833*<br>
-[FPT Software](https://gst.fsoft.com.vn/info/global-software-developer.html) (Sep 2016)
+**Android Programmer Certificate**<br>
+*[TT/M/2016/000565 - University of Science Ho Chi Minh City](https://csc.edu.vn/) (Oct 2016)*
 
-**Agile Software Development with Scrum** - *[SWDS20160530-357](https://verified.cv/en/verify/05020516275345)*<br>
-[Axon Active Vietnam](https://www.axonactive.com/) (Jun 2016)
+**Global Software Talent of FSOFT**<br>
+*[FSOFT_GST_1833 - FPT Software](https://gst.fsoft.com.vn/info/global-software-developer.html) (Sep 2016)*
+
+**Agile Software Development with Scrum**<br>
+*[SWDS20160530-357 - Axon Active Vietnam](https://verified.cv/en/verify/05020516275345) (Jun 2016)*
 
 **Android App Development**<br>
 [GDG Vietnam](https://gdg.community.dev/gdg-ho-chi-minh-city/) (Mar 2016)
 
 ## 🎓 Education
-**Bachelor** in **Computer Science** - ***GPA: 8/10***<br>
-[Ton Duc Thang University](https://tdtu.edu.vn/) - Ho Chi Minh City, Viet Nam (2013 - 2017)
+**Bachelor** in **Computer Science** - GPA: **8/10**<br>
+*[Ton Duc Thang University](https://tdtu.edu.vn/) - Saigon, Viet Nam (2013 - 2017)*
 
 ## 📦 Projects
 
