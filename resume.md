@@ -102,35 +102,35 @@
 
 ## 📜 Certificates
 **iSAQB® Certified Professional for Software Architecture - Foundation Level**<br>
-*[A8F384AFABBD - Certible](https://www.certible.com/badge/4d3d688e-f6ac-4b1c-8d4e-a8f384afabbd/) (Mar 2024)*
+[2403-CPSAFL-240329027-EN](https://www.certible.com/badge/4d3d688e-f6ac-4b1c-8d4e-a8f384afabbd/) @ *Certible (Mar 2024)*
 
 **Technical Team Lead**<br>
-*[U069YKJLTLJ - The Principal Dev](https://certs.principal.dev/27x/U069YKJLTLJ) (December 2023)*
+[U069YKJLTLJ](https://certs.principal.dev/27x/U069YKJLTLJ) @ *The Principal Dev (December 2023)*
 
 **Getting Started With Application Development**<br>
-*[EB8L49KCECGZ - Coursera](https://www.coursera.org/account/accomplishments/certificate/EB8L49KCECGZ) (October 2022)*
+[EB8L49KCECGZ](https://www.coursera.org/account/accomplishments/certificate/EB8L49KCECGZ) @ *Coursera (October 2022)*
 
 **Google Cloud Fundamentals: Core Infrastructure**<br>
-*[ZDCR5UNCJQDD - Coursera](https://www.coursera.org/account/accomplishments/certificate/ZDCR5UNCJQDD) (August 2022)*
+[ZDCR5UNCJQDD](https://www.coursera.org/account/accomplishments/certificate/ZDCR5UNCJQDD) @ *Coursera (August 2022)*
 
 **Kotlin for Java Developers**<br>
-*[GQ4ULDYAWDVR - Coursera](https://www.coursera.org/account/accomplishments/certificate/GQ4ULDYAWDVR) (Jun 2022)*
+[GQ4ULDYAWDVR](https://www.coursera.org/account/accomplishments/certificate/GQ4ULDYAWDVR) @ *Coursera (Jun 2022)*
 
 **Android Programmer Certificate**<br>
-*[TT/M/2016/000565 - University of Science Ho Chi Minh City](https://csc.edu.vn/) (Oct 2016)*
+[TT/M/2016/000565](https://csc.edu.vn/) @ *University of Science Ho Chi Minh City (Oct 2016)*
 
 **Global Software Talent of FSOFT**<br>
-*[FSOFT_GST_1833 - FPT Software](https://gst.fsoft.com.vn/info/global-software-developer.html) (Sep 2016)*
+[FSOFT_GST_1833](https://gst.fsoft.com.vn/info/global-software-developer.html) @ *FPT Software (Sep 2016)*
 
 **Agile Software Development with Scrum**<br>
-*[SWDS20160530-357 - Axon Active Vietnam](https://verified.cv/en/verify/05020516275345) (Jun 2016)*
+[SWDS20160530-357](https://verified.cv/en/verify/05020516275345) @ *Axon Active Vietnam (Jun 2016)*
 
 **Android App Development**<br>
 [GDG Vietnam](https://gdg.community.dev/gdg-ho-chi-minh-city/) (Mar 2016)
 
 ## 🎓 Education
 **Bachelor** in **Computer Science** - GPA: **8/10**<br>
-*[Ton Duc Thang University](https://tdtu.edu.vn/) - Saigon, Viet Nam (2013 - 2017)*
+*[Ton Duc Thang University](https://tdtu.edu.vn/) (2013 - 2017)*
 
 ## 📦 Projects
 
