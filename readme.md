@@ -42,7 +42,7 @@
 - **Team Development:** Stay close and help team members, provide technical guidance, fostering a culture of knowledge exchange and continuous improvement for enhanced teamwork and individual development of essential skills.
 - **Performance Optimization:** Implement monitoring practices to optimize system performance, scalability, and reliability.
 
-**Senior Software Engineer** (*Mar 2022 - Present*)<br>
+**Senior Software Engineer** (*Mar 2022 - Dec 2023*)<br>
 - Develop new features and provide ongoing maintenance for existing projects in the back-end using **Java, Kotlin**, as well as in the front-end using **React**.
 - Develop and update end-points **RESTful API** to facilitate communication between the front-end and other services.
 - Ensured proper functionality of endpoints by writing **Integration** and **Unit** test.
@@ -107,6 +107,9 @@
 - IELTS 7.0 (Jan 2024)
 
 ## 📜 Certificates
+**Getting Started with Google Kubernetes Engine**<br>
+[8YZ5VJEQBSYN](https://www.coursera.org/account/accomplishments/certificate/8YZ5VJEQBSYN) @ *Coursera (June 2024)*
+
 **iSAQB® Certified Professional for Software Architecture - Foundation Level**<br>
 [2403-CPSAFL-240329027-EN](https://www.certible.com/badge/4d3d688e-f6ac-4b1c-8d4e-a8f384afabbd/) @ *Certible (Mar 2024)*
 
