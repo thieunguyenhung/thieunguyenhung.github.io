@@ -107,6 +107,9 @@
 - IELTS 7.0 (Jan 2024)
 
 ## 📜 Certificates
+**Google Cloud Fundamentals: Core Infrastructure**<br>
+[ZDCR5UNCJQDD](https://www.coursera.org/account/accomplishments/certificate/9TEUKY8DJUQX) @ *Coursera (June 2024)*
+
 **Getting Started with Google Kubernetes Engine**<br>
 [8YZ5VJEQBSYN](https://www.coursera.org/account/accomplishments/certificate/8YZ5VJEQBSYN) @ *Coursera (June 2024)*
 
@@ -117,13 +120,10 @@
 [U069YKJLTLJ](https://certs.principal.dev/27x/U069YKJLTLJ) @ *The Principal Dev (December 2023)*
 
 **Getting Started With Application Development**<br>
-[EB8L49KCECGZ](https://www.coursera.org/account/accomplishments/certificate/EB8L49KCECGZ) @ *Coursera (October 2022)*
-
-**Google Cloud Fundamentals: Core Infrastructure**<br>
-[ZDCR5UNCJQDD](https://www.coursera.org/account/accomplishments/certificate/ZDCR5UNCJQDD) @ *Coursera (August 2022)*
+[EB8L49KCECGZ](https://www.coursera.org/account/accomplishments/certificate/KTATLY9Q5689) @ *Coursera (October 2022)*
 
 **Kotlin for Java Developers**<br>
-[GQ4ULDYAWDVR](https://www.coursera.org/account/accomplishments/certificate/GQ4ULDYAWDVR) @ *Coursera (Jun 2022)*
+[GQ4ULDYAWDVR](https://www.coursera.org/account/accomplishments/certificate/985WPYUZB7X7) @ *Coursera (Jun 2022)*
 
 **Android Programmer Certificate**<br>
 [TT/M/2016/000565](https://csc.edu.vn/) @ *University of Science Ho Chi Minh City (Oct 2016)*
