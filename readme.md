@@ -9,18 +9,18 @@
 
 ## 💪 Hard Skills
 - **Software Architectures:** Microservices, Monolithic
-- **Programming Languages:** Java (8/11), Kotlin, JavaScript, TypeScript, HTML, CSS
+- **Programming Languages:** Java, Kotlin
 - **RESTful API:** Develop RESTful API with JSON/XML, Pagination, API versioning, HTTP methods, Error handling
-- **Web App Development:** React, Angular
-- **Cloud:** AWS, Google Cloud
-- **Monitoring** Datadog, Crosscheck logs to find bugs
-- **Database:** Joining tables, SQL Script Procedure with OracleDB, PostgreSQL, MySQL, H2
-- **Testing:** React Testing Library, JUnit, Integration, Performance, A/B, Contract, Testcontainers, Cucumber
+- **Web App Development:** React
+- **Cloud:** Google Cloud Platform
+- **Monitoring** Datadog
+- **Database:** OracleDB, PostgreSQL, MySQL, H2
+- **Testing:** React Testing Library, JUnit, Integration, Performance, A/B, Contract
 - **Container Platforms:** Docker, Kubernetes
-- **Message broker:** Kafka, RabbitMQ
-- **CI/CD:** Jenkins, GitHub Action, GoCD
+- **Message broker:** Kafka
+- **CI/CD:** GitHub Action, Jenkins, GoCD
 - **Principles:** OOP, AOP, MVC, S.O.L.I.D, Agile
-- **SVC:** Git, SVN
+- **SVC:** Git
 
 ## ⭐ Soft Skills
 - Team and People Development
