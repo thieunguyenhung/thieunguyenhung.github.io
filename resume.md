@@ -9,18 +9,18 @@
 
 ## 💪 Hard Skills
 - **Software Architectures:** Microservices, Monolithic
-- **Programming Languages:** Java (8/11), Kotlin, JavaScript, TypeScript, HTML, CSS
+- **Programming Languages:** Java, Kotlin
 - **RESTful API:** Develop RESTful API with JSON/XML, Pagination, API versioning, HTTP methods, Error handling
-- **Web App Development:** React, Angular
-- **Cloud:** AWS, Google Cloud
-- **Monitoring** Datadog, Crosscheck logs to find bugs
-- **Database:** Joining tables, SQL Script Procedure with OracleDB, PostgreSQL, MySQL, H2
-- **Testing:** React Testing Library, JUnit, Integration, Performance, A/B, Contract, Testcontainers, Cucumber
+- **Web App Development:** React
+- **Cloud:** Google Cloud Platform
+- **Monitoring** Datadog
+- **Database:** OracleDB, PostgreSQL, MySQL, H2
+- **Testing:** React Testing Library, JUnit, Integration, Performance, A/B, Contract
 - **Container Platforms:** Docker, Kubernetes
-- **Message broker:** Kafka, RabbitMQ
-- **CI/CD:** Jenkins, GitHub Action, GoCD
+- **Message broker:** Kafka
+- **CI/CD:** GitHub Action, Jenkins, GoCD
 - **Principles:** OOP, AOP, MVC, S.O.L.I.D, Agile
-- **SVC:** Git, SVN
+- **SVC:** Git
 
 ## ⭐ Soft Skills
 - Team and People Development
@@ -33,16 +33,23 @@
 ## 🖥 Experience
 
 ### [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
-*Berlin, Germany · Remote*
 
-**Technical Lead** (*Jan 2024 - Present*)<br>
-- **Cross-Team Collaboration:** Engage in collaborative initiatives with Technical Leads from diverse teams.
-- **Architectural Contribution:** Shaping the design and architecture of the team's projects, collaborating with other teams and contributing to overall Software Architecture.
-- **Business Collaboration:** Work closely with the Product Owner and stakeholders to refine requirements and implement features that enhance the solution.
-- **Team Development:** Stay close and help team members, provide technical guidance, fostering a culture of knowledge exchange and continuous improvement for enhanced teamwork and individual development of essential skills.
-- **Performance Optimization:** Implement monitoring practices to optimize system performance, scalability, and reliability.
+**Technical Lead** (*Jan 2024 - Present*)<br> *Vietnam · Hybrid*
+- **Team Development:**
+  - I single-onboarded a freshly joined small team to the product, including technical and soft skills.
+  - Stay close, help my team members, and provide technical and self-improvement guidance when needed.
+  - Knowledge exchange and a culture of continuous improvement are important. I helped the team set personal development goals according to their plan and project requirements.
+  - Fostering a culture of independent mindset, my ultimate goal is for everybody in the team should know what to do in a situation. A strong team is each of its members understands and makes the right decision in any situation.
+- **Performance and Optimization:**
+  - Create multiple dashboards for monitoring resource consumption and optimizing the system as well as reducing the infrastructure cost.
+  - Despite of the fresh team, I've driven the whole team to successfully migrate the legacy product to GKE.
+  - Encourage the team to upgrade the dependencies to the new stable version to reduce product vulnerability.
+  - Optimize the deployment method and migrate the legacy deployment pipeline to GitHub Action.
+- **Cross-Team Collaboration:**
+  - As a Technical Lead, I also have to deal with multiple requests from other teams as well as our customers such as API changes, and new feature requests.
+  - When API integration is needed across services, I created the requirements and polished the API documents from our side.
 
-**Senior Software Engineer** (*Mar 2022 - Dec 2023*)<br>
+**Senior Software Engineer** (*Mar 2022 - Dec 2023*)<br> *Berlin, Germany · Multi cultured team · Remote*
 - Develop new features and provide ongoing maintenance for existing projects in the back-end using **Java, Kotlin**, as well as in the front-end using **React**.
 - Develop and update end-points **RESTful API** to facilitate communication between the front-end and other services.
 - Ensured proper functionality of endpoints by writing **Integration** and **Unit** test.
@@ -68,7 +75,7 @@
 - Peer code review with teammates and mentoring junior members.
 
 ### [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)
-*Saigon, Vietnam · Onsite*
+*Vietnam · Onsite*
 
 **Java Software Engineer**
 - Implement new features and maintenance of existing projects (**Java**).
@@ -77,7 +84,7 @@
 - Peer code review with teammates.
 
 ### [NewAI](https://newai.vn/) (*Apr 2017 - Dec 2017*)
-*Saigon, Vietnam · Onsite*
+*Vietnam · Onsite*
 
 **Full-stack Developer**
 - Implement back-end (**Java**) and front-end (**PHP/Android**) for new projects.
@@ -86,7 +93,7 @@
 - Optimize result layout in PDF for end-user.
 
 ### [Ton Duc Thang University](https://www.tdtu.edu.vn/) (*Nov 2015 - May 2016*)
-*Saigon, Vietnam · Onsite*
+*Vietnam · Onsite*
 
 **Teaching Assistant**
 - Helping students to understand their exercises.
