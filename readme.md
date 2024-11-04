@@ -147,7 +147,7 @@
 Official projects that I have participated in as a full-time employee for companies<br>
 
 - [Metro.digital](#metrodigital)
-  - [SAM Domain](#fsd-domain)
+  - [FSD Domain](#fsd-domain)
   - [SAM Domain](#sam-domain)
 - [mesoneer AG](#mesoneer-ag)
   - [DBH Card Module](#dbh-card-module)
