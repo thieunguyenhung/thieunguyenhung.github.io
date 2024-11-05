@@ -7,7 +7,7 @@
 **Portfolio:** [thieunguyenhung.github.io](https://thieunguyenhung.github.io)<br>
 **Phone:** [+84 908 217 269](tel:+84908217269)<br>
 
-## 💪 Hard Skills
+## Hard Skills
 - **Software Architectures:** Microservices, Monolithic
 - **Programming Languages:** Java, Kotlin
 - **RESTful API:** Develop RESTful API with JSON/XML, Pagination, API versioning, HTTP methods, Error handling
@@ -22,7 +22,7 @@
 - **Principles:** OOP, AOP, MVC, S.O.L.I.D, Agile
 - **SVC:** Git
 
-## ⭐ Soft Skills
+## Soft Skills
 - Team and People Development
 - Leadership and Mentorship
 - Open and Growth mindset
@@ -30,7 +30,7 @@
 - Problem-solving and Critical thinking
 - Collaboration and Responsibility
 
-## 🖥 Experience
+## Experience
 
 ### [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
 
@@ -93,7 +93,7 @@
 - Optimize model for extracting text from photos (**OCR**).
 - Optimize result layout in PDF for end-user.
 
-### [Ton Duc Thang University](https://www.tdtu.edu.vn/) (*Nov 2015 - May 2016*)
+### [Ton Duc Thang University](https://www.tdtu.edu.vn/) (*Nov 2015 - Dec 2016*)
 *Vietnam · Onsite*
 
 **Teaching Assistant**
@@ -102,13 +102,13 @@
 - Helping some students who need extra support to complete their exercises.
 - Explaining the lessons to some students who do not understand.
 
-## 💬 Languages
+## Languages
 **Vietnamese**: Native<br>
 **English**: Professional fluently
 - TOEIC 880 (Feb 2017)
 - IELTS 7.0 (Jan 2024)
 
-## 📜 Certificates
+## Certificates
 **Google Cloud Fundamentals: Core Infrastructure**<br>
 [ZDCR5UNCJQDD](https://www.coursera.org/account/accomplishments/certificate/9TEUKY8DJUQX) @ *Coursera (June 2024)*
 
@@ -139,11 +139,11 @@
 **Android App Development**<br>
 [GDG Vietnam](https://gdg.community.dev/gdg-ho-chi-minh-city/) (Mar 2016)
 
-## 🎓 Education
+## Education
 **Bachelor** in **Computer Science** - GPA: **8/10**<br>
-*[Ton Duc Thang University](https://tdtu.edu.vn/) (2013 - 2017)*
+*[Ton Duc Thang University](https://tdtu.edu.vn/)*
 
-## 📦 Projects
+## Projects
 
 Official projects that I have participated in as a full-time employee for companies<br>
 

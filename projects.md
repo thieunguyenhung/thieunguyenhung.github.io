@@ -1,7 +1,7 @@
 # Hung Thieu
 ***Technical Lead | Sr. Software Engineer with 7 years of experience contributing to diverse software projects.***<br>
 
-## 📦 Projects
+## Projects
 
 Official projects that I have participated in as a full-time employee for companies<br>
 
