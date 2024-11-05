@@ -42,6 +42,7 @@
   - Fostering a culture of independent mindset, my ultimate goal is for everybody in the team should know what to do in a situation. A strong team is each of its members understands and makes the right decision in any situation.
 - **Performance and Optimization:**
   - Create multiple dashboards for monitoring resource consumption and optimizing the system as well as reducing the infrastructure cost.
+  - Add SLA, SLO, DORA and North Star metrics for monitoring the product status, and encourage the team to participate and practice.
   - Despite of the fresh team, I've driven the whole team to successfully migrate the legacy product to GKE.
   - Encourage the team to upgrade the dependencies to the new stable version to reduce product vulnerability.
   - Optimize the deployment method and migrate the legacy deployment pipeline to GitHub Action.
