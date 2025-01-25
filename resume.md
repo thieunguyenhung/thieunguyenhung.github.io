@@ -1,5 +1,5 @@
 # Hung Thieu
-***Technical Lead | Sr. Software Engineer with 7 years of experience contributing to diverse software projects.***<br>
+***Technical Lead | Sr. Software Engineer with 8 years of experience contributing to diverse software projects.***<br>
 
 **Email:** [thieunguyenhung@gmail.com](mailto:thieunguyenhung@gmail.com)<br>
 **LinkedIn:** [linkedin.com/in/thieunguyenhung](https://www.linkedin.com/in/thieunguyenhung/)<br>
@@ -97,6 +97,9 @@
 *Vietnam · Onsite*
 
 **Teaching Assistant**
+
+*A volunteer program where the participants help the freshly joined students get familiar with the subjects in their curriculum. Additionally planning and giving exercises for students to practice what they studied in lab.*
+
 - Helping students to understand their exercises.
 - Helping the teacher to prepare the homework.
 - Helping some students who need extra support to complete their exercises.
@@ -109,17 +112,32 @@
 - IELTS 7.0 (Jan 2024)
 
 ## Certificates
-**Google Cloud Fundamentals: Core Infrastructure**<br>
-[ZDCR5UNCJQDD](https://www.coursera.org/account/accomplishments/certificate/9TEUKY8DJUQX) @ *Coursera (June 2024)*
 
-**Getting Started with Google Kubernetes Engine**<br>
-[8YZ5VJEQBSYN](https://www.coursera.org/account/accomplishments/certificate/8YZ5VJEQBSYN) @ *Coursera (June 2024)*
+### Leading Skills
+**Project Planning: Putting It All Together**<br>
+[CR4CAY0SHRUA](https://www.coursera.org/account/accomplishments/certificate/CR4CAY0SHRUA) @ *Coursera (Dec 2024)*
 
-**iSAQB® Certified Professional for Software Architecture - Foundation Level**<br>
-[2403-CPSAFL-240329027-EN](https://www.certible.com/badge/4d3d688e-f6ac-4b1c-8d4e-a8f384afabbd/) @ *Certible (Mar 2024)*
+**Developing a Google SRE Culture**<br>
+[TARHSJN5JMYD](https://www.coursera.org/account/accomplishments/certificate/TARHSJN5JMYD) @ *Coursera (August 2024)*
+
+**Project Initiation: Starting a Successful Project**<br>
+[U3N7JDYZR205](https://www.coursera.org/account/accomplishments/certificate/U3N7JDYZR205) @ *Coursera (August 2024)*
+
+**Foundations of Project Management**<br>
+[B77B7GOXA8V4](https://www.coursera.org/account/accomplishments/certificate/B77B7GOXA8V4) @ *Coursera (August 2024)*
 
 **Technical Team Lead**<br>
 [U069YKJLTLJ](https://certs.principal.dev/27x/U069YKJLTLJ) @ *The Principal Dev (December 2023)*
+
+**Agile Software Development with Scrum**<br>
+[SWDS20160530-357](https://verified.cv/en/verify/05020516275345) @ *Axon Active Vietnam (Jun 2016)*
+
+### Technical Skills
+**Preparing for Google Cloud Certification: Cloud DevOps Engineer**<br>
+[T940X5K7W9ZD](https://www.coursera.org/account/accomplishments/professional-cert/T940X5K7W9ZD) @ *Coursera (Dec 2024)*
+
+**iSAQB® Certified Professional for Software Architecture - Foundation Level**<br>
+[2403-CPSAFL-240329027-EN](https://www.certible.com/badge/4d3d688e-f6ac-4b1c-8d4e-a8f384afabbd/) @ *Certible (Mar 2024)*
 
 **Getting Started With Application Development**<br>
 [EB8L49KCECGZ](https://www.coursera.org/account/accomplishments/certificate/KTATLY9Q5689) @ *Coursera (October 2022)*
@@ -133,15 +151,12 @@
 **Global Software Talent of FSOFT**<br>
 [FSOFT_GST_1833](https://gst.fsoft.com.vn/info/global-software-developer.html) @ *FPT Software (Sep 2016)*
 
-**Agile Software Development with Scrum**<br>
-[SWDS20160530-357](https://verified.cv/en/verify/05020516275345) @ *Axon Active Vietnam (Jun 2016)*
-
 **Android App Development**<br>
 [GDG Vietnam](https://gdg.community.dev/gdg-ho-chi-minh-city/) (Mar 2016)
 
 ## Education
 **Bachelor** in **Computer Science** - GPA: **8/10**<br>
-*[Ton Duc Thang University](https://tdtu.edu.vn/)*
+*[Ton Duc Thang University](https://tdtu.edu.vn/) (2017)*
 
 ## Projects
 
