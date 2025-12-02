@@ -8,7 +8,7 @@
 
 ## Hard Skills
 - **Software Architectures:** Microservices, Monolithic
-- **Programming Languages:** Java, Kotlin
+- **Programming Languages:** Java (Spring Boot), Kotlin
 - **RESTful API:** Develop RESTful API with JSON/XML, Pagination, API versioning, HTTP methods, Error handling
 - **Web App Development:** React
 - **Cloud:** Google Cloud Platform
