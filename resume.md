@@ -114,15 +114,6 @@
 ## Certificates
 
 ### Leading Skills
-**Project Planning: Putting It All Together**<br>
-[CR4CAY0SHRUA](https://www.coursera.org/account/accomplishments/certificate/CR4CAY0SHRUA) @ *Coursera (Dec 2024)*
-
-**Developing a Google SRE Culture**<br>
-[TARHSJN5JMYD](https://www.coursera.org/account/accomplishments/certificate/TARHSJN5JMYD) @ *Coursera (August 2024)*
-
-**Project Initiation: Starting a Successful Project**<br>
-[U3N7JDYZR205](https://www.coursera.org/account/accomplishments/certificate/U3N7JDYZR205) @ *Coursera (August 2024)*
-
 **Foundations of Project Management**<br>
 [B77B7GOXA8V4](https://www.coursera.org/account/accomplishments/certificate/B77B7GOXA8V4) @ *Coursera (August 2024)*
 
@@ -133,9 +124,6 @@
 [SWDS20160530-357](https://verified.cv/en/verify/05020516275345) @ *Axon Active Vietnam (Jun 2016)*
 
 ### Technical Skills
-**Preparing for Google Cloud Certification: Cloud DevOps Engineer**<br>
-[T940X5K7W9ZD](https://www.coursera.org/account/accomplishments/professional-cert/T940X5K7W9ZD) @ *Coursera (Dec 2024)*
-
 **iSAQB® Certified Professional for Software Architecture - Foundation Level**<br>
 [2403-CPSAFL-240329027-EN](https://www.certible.com/badge/4d3d688e-f6ac-4b1c-8d4e-a8f384afabbd/) @ *Certible (Mar 2024)*
 
