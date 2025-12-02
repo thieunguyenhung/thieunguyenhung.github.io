@@ -4,7 +4,6 @@
 **Email:** [thieunguyenhung@gmail.com](mailto:thieunguyenhung@gmail.com)<br>
 **LinkedIn:** [linkedin.com/in/thieunguyenhung](https://www.linkedin.com/in/thieunguyenhung/)<br>
 **GitHub:** [github.com/thieunguyenhung](https://github.com/thieunguyenhung)<br>
-**Portfolio:** [thieunguyenhung.github.io](https://thieunguyenhung.github.io)<br>
 **Phone:** [+84 908 217 269](tel:+84908217269)<br>
 
 ## Hard Skills
