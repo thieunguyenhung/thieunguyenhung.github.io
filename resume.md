@@ -7,18 +7,17 @@
 **Phone:** [+84 908 217 269](tel:+84908217269)<br>
 
 ## Hard Skills
-- **Software Architectures:** Microservices, Monolithic
-- **Programming Languages:** Java (Spring Boot), Kotlin
+- **Architecture Patterns:** Microservices, Orchestration, Choreography
+- **Programming Languages:** Java (with Spring Boot), Kotlin
 - **RESTful API:** Develop RESTful API with JSON/XML, Pagination, API versioning, HTTP methods, Error handling
-- **Web App Development:** React
 - **Cloud:** Google Cloud Platform
 - **Monitoring** Datadog
-- **Database:** OracleDB, PostgreSQL, MySQL, H2
-- **Testing:** React Testing Library, JUnit, Integration, Performance, A/B, Contract
+- **Database:** PostgreSQL, H2
+- **Testing:** JUnit, Integration, Performance, A/B, Contract
 - **Container Platforms:** Docker, Kubernetes
-- **Message broker:** Kafka
-- **CI/CD:** GitHub Action, Jenkins, GoCD
-- **Principles:** OOP, AOP, MVC, S.O.L.I.D, Agile
+- **Message broker:** RabbitMQ, Kafka
+- **CI/CD:** GitHub Action, Jenkins
+- **Principles:** OOP, S.O.L.I.D, MVC, Agile
 - **SVC:** Git
 
 ## Soft Skills
@@ -32,6 +31,20 @@
 ## Experience
 
 ### [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
+
+**Senior Software Engineer** (*Mar 2022 - Present*)<br> *Berlin, Germany · Multi cultured team · Remote*
+- Develop new features and maintain existing back-end projects using **Java** with **Spring Boot MVC**, leveraging a strong understanding of MVC architecture and backend service design to deliver production-ready solutions.
+- Use strong **object-oriented design** practices and Java design patterns while applying **S.O.L.I.D** principles throughout the codebase.
+- Collaborate with solution architects using **UML diagrams** to clearly communicate and refine system designs.
+- Develop end-points **RESTful API** for communication between the front-end and other services.
+- Ensured proper functionality of the code base by writing **Integration** and **Unit** tests, taking care about test coverage.
+- Create and maintaince **Kubernetes** deployment **YAML** file.
+- Applied **CI/CD** with **GitHub Action**.
+- Write and receive application data to/from the **Database** using **PostgreSQL**.
+- Engaging with user bug tickets (referred to as Firefighting work), cross-checking service logs, and releasing hotfixes.
+- Generate user stories addressing Technical Debt based on the observations and insights gained during the Firefighting work.
+- Onboarding and pair programming with team members.
+- Cross-check pull requests, user stories.
 
 **Technical Lead** (*Jan 2024 - Present*)<br> *Vietnam · Hybrid*
 - **Team Development:**
@@ -49,24 +62,13 @@
   - As a Technical Lead, I also have to deal with multiple requests from other teams as well as our customers such as API changes, and new feature requests.
   - When API integration is needed across services, I created the requirements and polished the API documents from our side.
 
-**Senior Software Engineer** (*Mar 2022 - Dec 2023*)<br> *Berlin, Germany · Multi cultured team · Remote*
-- Develop new features and provide ongoing maintenance for existing projects in the back-end using **Java, Kotlin**, as well as in the front-end using **React**.
-- Develop and update end-points **RESTful API** to facilitate communication between the front-end and other services.
-- Ensured proper functionality of endpoints by writing **Integration** and **Unit** test.
-- Engaging with user bug tickets (referred to as Firefighting work), cross-checking service logs, and releasing hotfixes.
-- Generate user stories addressing Technical Debt based on the observations and insights gained during the Firefighting work.
-- Create and maintaince **Kubernetes** deployment **YAML** file.
-- Applied **CI/CD** with **GitHub Action** and **GoCD**.
-- Write and receive application data to/from the **Database** using **PostgreSQL** and **Cassandra**.
-- Implement new UI features with **Typescript, HTML, CSS, JavaScript** based on schema from UX Team.
-- Onboarding and pair programming with team members.
-- Cross-check pull requests, user stories.
-
 ### [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
 *Zürich, Switzerland · Hybrid*
 
 **Full-stack Developer**
-- Implement back-end (**Java**) and front-end (**Angular**) for new projects.
+- Implement back-end (**Java** with **Spring Boot MVC**) and front-end (**Angular**) for new projects.
+- Apply deep knowledge of MVC architecture and backend service design to build reliable, production-ready solutions
+- Apply **S.O.L.I.D** principles across the codebase while employing robust **object-oriented design** pattern and Java design patterns.
 - Writing tests for the back-end **Unit** and **Integration test**.
 - Write and receive application data to/from the **Database** using **Oracle Database**.
 - Develop and update end-points (**RESTful API**) to communicate with front-end and other services.
