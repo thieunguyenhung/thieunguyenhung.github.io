@@ -33,26 +33,23 @@
 
 ### [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
 
-**Senior Software Engineer** (*Mar 2022 - Present*)<br> *Berlin, Germany · Multi cultured team · Remote*
-- Develop new features and maintain existing back-end projects using **Java** with **Spring Boot MVC**, leveraging a strong understanding of MVC architecture and backend service design to deliver production-ready solutions.
-- Use strong **object-oriented design** practices and Java design patterns while applying **S.O.L.I.D** principles throughout the codebase.
-- Collaborate with solution architects using **UML diagrams** to clearly communicate and refine system designs.
-- Develop end-points **RESTful API** for communication between the front-end and other services.
-- Ensured proper functionality of the code base by writing **Integration** and **Unit** tests, taking care about test coverage.
-- Create and maintaince **Kubernetes** deployment **YAML** file.
-- Applied **CI/CD** with **GitHub Action**.
-- Write and receive application data to/from the **Database** using **PostgreSQL**.
-- Engaging with user bug tickets (referred to as Firefighting work), cross-checking service logs, and releasing hotfixes.
-- Generate user stories addressing Technical Debt based on the observations and insights gained during the Firefighting work.
-- Onboarding and pair programming with team members.
-- Cross-check pull requests, user stories.
-
 **Technical Lead** (*Jan 2024 - Present*)<br> *Vietnam · Hybrid*
+- **Project Development:**
+  - Develop new features and maintain existing back-end projects using **Java** with **Spring Boot MVC**, leveraging a strong understanding of MVC architecture and backend service design to deliver production-ready solutions.
+  - Use strong **object-oriented design** practices and Java design patterns while applying **S.O.L.I.D** principles throughout the codebase.
+  - Collaborate with solution architects using **UML diagrams** to clearly communicate and refine system designs.
+  - Develop end-points **RESTful API** for communication between the front-end and other services.
+  - Ensured proper functionality of the code base by writing **Integration** and **Unit** tests, taking care about test coverage.
+  - Create and maintaince **Kubernetes** deployment **YAML** file.
+  - Applied **CI/CD** with **GitHub Action**.
+  - Write and receive application data to/from the **Database** using **PostgreSQL**.
+  - Break down and delegate tasks to the team when needed.
+  - Cross-check pull requests, user stories.
 - **Team Development:**
-  - I single-onboarded a freshly joined small team to the product, including technical and soft skills.
-  - Stay close, help my team members, and provide technical and self-improvement guidance when needed.
-  - Knowledge exchange and a culture of continuous improvement are important. I helped the team set personal development goals according to their plan and project requirements.
-  - Fostering a culture of independent mindset, my ultimate goal is for everybody in the team should know what to do in a situation. A strong team is each of its members understands and makes the right decision in any situation.
+  - Single-onboarded a freshly joined small team to the product, including technical and soft skills.
+  - Provide technical help and self-improvement guidance when needed, helped the team set personal development goals according to their plan and project requirements.
+  - Encourage a culture of continuous improvement and knowledge exchange.
+  - Fostering a culture of an independent mindset, my ultimate goal is for everybody in the team should know what to do in a situation. A strong team is each of its members understands and makes the right decision in any situation.
 - **Performance and Optimization:**
   - Create multiple dashboards for monitoring resource consumption and optimizing the system as well as reducing the infrastructure cost.
   - Add SLA, SLO, DORA and North Star metrics for monitoring the product status, and encourage the team to participate and practice.
@@ -63,10 +60,22 @@
   - As a Technical Lead, I also have to deal with multiple requests from other teams as well as our customers such as API changes, and new feature requests.
   - When API integration is needed across services, I created the requirements and polished the API documents from our side.
 
-### [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
-*Zürich, Switzerland · Hybrid*
+**Senior Software Engineer** (*Mar 2022 - Dec 2023*)<br> *Berlin, Germany · Multi cultured team · Remote*
+- Develop new features and maintain existing back-end projects using **Java** with **Spring Boot MVC**, leveraging a strong understanding of MVC architecture and backend service design to deliver production-ready solutions.
+- Use strong **object-oriented design** practices and Java design patterns while applying **S.O.L.I.D** principles throughout the codebase.
+- Collaborate with solution architects using **UML diagrams** to clearly communicate and refine system designs.
+- Develop end-points **RESTful API** for communication between the front-end and other services.
+- Ensured proper functionality of the code base by writing **Integration** and **Unit** tests, taking care about test coverage.
+- Create and maintaince **Kubernetes** deployment **YAML** file.
+- Applied **CI/CD** with **GitHub Action**.
+- Write and receive application data to/from the **Database** using **PostgreSQL**.
+- Engaging with user bug tickets (referred to as Firefighting work), cross-checking service logs, and releasing hotfixes.
+- Create user stories addressing Technical Debt based on the observations and insights gained during the Firefighting work.
+- Cross-check pull requests, user stories.
 
-**Full-stack Developer**
+### [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
+**Full-stack Developer**<br> *Zürich, Switzerland · Hybrid*
+
 - Implement back-end (**Java** with **Spring Boot MVC**) and front-end (**Angular**) for new projects.
 - Apply deep knowledge of MVC architecture and backend service design to build reliable, production-ready solutions
 - Apply **S.O.L.I.D** principles across the codebase while employing robust **object-oriented design** pattern and Java design patterns.
@@ -78,27 +87,23 @@
 - Peer code review with teammates and mentoring junior members.
 
 ### [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)
-*Vietnam · Onsite*
+**Java Software Engineer**<br> *Vietnam · Onsite*
 
-**Java Software Engineer**
 - Implement new features and maintenance of existing projects (**Java**).
 - Implement and fix UI (**Eclipse RCP**).
 - Writing **Unit tests**
 - Peer code review with teammates.
 
 ### [NewAI](https://newai.vn/) (*Apr 2017 - Dec 2017*)
-*Vietnam · Onsite*
+**Full-stack Developer**<br> *Vietnam · Onsite*
 
-**Full-stack Developer**
 - Implement back-end (**Java**) and front-end (**PHP/Android**) for new projects.
 - Create and deploy demo and dev environment based on **Google Cloud (Kubernetes)**.
 - Optimize model for extracting text from photos (**OCR**).
 - Optimize result layout in PDF for end-user.
 
 ### [Ton Duc Thang University](https://www.tdtu.edu.vn/) (*Nov 2015 - Dec 2016*)
-*Vietnam · Onsite*
-
-**Teaching Assistant**
+**Teaching Assistant**<br> *Vietnam · Onsite*
 
 *A volunteer program where the participants help the freshly joined students get familiar with the subjects in their curriculum. Additionally planning and giving exercises for students to practice what they studied in lab.*
 
