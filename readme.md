@@ -1,20 +1,19 @@
 # Hung Thieu
-***Technical Lead | Sr. Software Engineer with 8 years of experience contributing to diverse software projects.***<br>
+***Sr. Software Engineer with 9 years of experience contributing to diverse software projects.***<br>
 
 **Email:** [thieunguyenhung@gmail.com](mailto:thieunguyenhung@gmail.com)<br>
 **LinkedIn:** [linkedin.com/in/thieunguyenhung](https://www.linkedin.com/in/thieunguyenhung/)<br>
 **GitHub:** [github.com/thieunguyenhung](https://github.com/thieunguyenhung)<br>
-**Portfolio:** [thieunguyenhung.github.io](https://thieunguyenhung.github.io)<br>
 **Phone:** [+84 908 217 269](tel:+84908217269)<br>
 
 ## Hard Skills
 - **Architecture Patterns:** Microservices, Orchestration, Choreography
-- **Programming Languages:** Java (with Spring Boot), Kotlin
-- **RESTful API:** Develop RESTful API with JSON/XML, Pagination, API versioning, HTTP methods, Error handling
+- **Programming Languages:** Java (with Spring Boot)
+- **RESTful API:** Develop RESTful API with JSON/XML, Pagination, API versioning, Error handling
 - **Cloud:** Google Cloud Platform
-- **Monitoring** Datadog
+- **Monitoring** Datadog, Opensearch
 - **Database:** PostgreSQL, H2
-- **Testing:** JUnit, Integration, Performance, A/B, Contract
+- **Testing:** JUnit, Performance, A/B, Contract
 - **Container Platforms:** Docker, Kubernetes
 - **Message broker:** RabbitMQ, Kafka
 - **CI/CD:** GitHub Action, Jenkins
@@ -31,11 +30,19 @@
 
 ## Experience
 
-### [Metro.digital](https://metro.digital/) (*Mar 2022 - Present*)
+### [NAB Vietnam](https://www.nab.com.au/about-us/careers/nabvietnam) (*May 2022 - Present*)
+**Senior Analyst, Engineer**<br> *Vietnam · Hybrid*
+
+- Maintained and enhanced existing back-end services built with **Java** and **Spring Boot**.
+- Consolidated multiple services into a single service to reduce infrastructure costs and improve maintainability. Applied **S.O.L.I.D** principles to ensure clean and maintainable codebase.
+- Ensured service reliability and performance through **Unit** and **Performance** testing, maintaining test coverage above 90%.
+- Upgraded legacy services to newer Java versions and streamlined application profiles, ensuring proper communication with the MQ Team's infrastructure.
+
+### [Metro.digital](https://metro.digital/) (*Mar 2022 - April 2026*)
 
 **Technical Lead** (*Jan 2024 - Present*)<br> *Vietnam · Hybrid*
 - **Project Development:**
-  - Develop new features and maintain existing back-end projects using **Java** with **Spring Boot MVC**, leveraging a strong understanding of MVC architecture and backend service design to deliver production-ready solutions.
+  - Develop new features and maintain existing back-end projects using **Java** with **Spring Boot**, leveraging a strong understanding of MVC architecture and backend service design to deliver production-ready solutions.
   - Use strong **object-oriented design** practices and Java design patterns while applying **S.O.L.I.D** principles throughout the codebase.
   - Collaborate with solution architects using **UML diagrams** to clearly communicate and refine system designs.
   - Develop end-points **RESTful API** for communication between the front-end and other services.
