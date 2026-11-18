@@ -37,6 +37,7 @@
 - Consolidated multiple services into a single service to reduce infrastructure costs and improve maintainability. Applied **S.O.L.I.D** principles to ensure clean and maintainable codebase.
 - Ensured service reliability and performance through **Unit** and **Performance** testing, maintaining test coverage above 90%.
 - Upgraded legacy services to newer Java versions and streamlined application profiles, ensuring proper communication with the MQ Team's infrastructure.
+- Built practical **AI** skill sets, applied them to the tasks, and shared best practices with team members.
 
 ### [Metro.digital](https://metro.digital/) (*Mar 2022 - April 2026*)
 
