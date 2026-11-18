@@ -41,7 +41,7 @@
 
 ### [Metro.digital](https://metro.digital/) (*Mar 2022 - April 2026*)
 
-**Technical Lead** (*Jan 2024 - Present*)<br> *Vietnam · Hybrid*
+**Technical Lead** (*Jan 2024 - April 2026*)<br> *Vietnam · Hybrid*
 - **Project Development:**
   - Develop new features and maintain existing back-end projects using **Java** with **Spring Boot**, leveraging a strong understanding of MVC architecture and backend service design to deliver production-ready solutions.
   - Use strong **object-oriented design** practices and Java design patterns while applying **S.O.L.I.D** principles throughout the codebase.
