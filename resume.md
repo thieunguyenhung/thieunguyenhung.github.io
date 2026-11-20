@@ -16,7 +16,7 @@
 - **Testing:** JUnit, Performance, A/B, Contract
 - **Container Platforms:** Docker, Kubernetes
 - **Message broker:** RabbitMQ, Kafka
-- **CI/CD:** GitHub Action, Jenkins
+- **CI/CD:** GitHub Actions, Jenkins
 - **Principles:** OOP, S.O.L.I.D, MVC, Agile
 - **SVC:** Git
 
@@ -31,7 +31,7 @@
 ## Experience
 
 ### [NAB Vietnam](https://www.nab.com.au/about-us/careers/nabvietnam) (*May 2026 - Present*)
-**Senior Analyst, Engineer**<br> *Vietnam · Hybrid*
+**Senior Analyst, Engineer**<br>
 
 - Maintained and enhanced existing back-end services built with **Java** and **Spring Boot**.
 - Consolidated multiple services into a single service to reduce infrastructure costs and improve maintainability. Applied **S.O.L.I.D** principles to ensure clean and maintainable codebase.
@@ -40,49 +40,23 @@
 - Built practical **AI** skill sets, applied them to the tasks, and shared best practices with team members.
 
 ### [Metro.digital](https://metro.digital/) (*Mar 2022 - April 2026*)
+**Senior Software Engineer**<br>
 
-**Technical Lead** (*Jan 2024 - April 2026*)<br> *Vietnam · Hybrid*
-- **Project Development:**
-  - Develop new features and maintain existing back-end projects using **Java** with **Spring Boot**, leveraging a strong understanding of MVC architecture and backend service design to deliver production-ready solutions.
-  - Use strong **object-oriented design** practices and Java design patterns while applying **S.O.L.I.D** principles throughout the codebase.
-  - Collaborate with solution architects using **UML diagrams** to clearly communicate and refine system designs.
-  - Develop end-points **RESTful API** for communication between the front-end and other services.
-  - Ensured proper functionality of the code base by writing **Integration** and **Unit** tests, taking care about test coverage.
-  - Create and maintaince **Kubernetes** deployment **YAML** file.
-  - Applied **CI/CD** with **GitHub Action**.
-  - Write and receive application data to/from the **Database** using **PostgreSQL**.
-  - Break down and delegate tasks to the team when needed.
-  - Cross-check pull requests, user stories.
-- **Team Development:**
-  - Single-onboarded a freshly joined small team to the product, including technical and soft skills.
-  - Provide technical help and self-improvement guidance when needed, helped the team set personal development goals according to their plan and project requirements.
-  - Encourage a culture of continuous improvement and knowledge exchange.
-  - Fostering a culture of an independent mindset, my ultimate goal is for everybody in the team should know what to do in a situation. A strong team is each of its members understands and makes the right decision in any situation.
-- **Performance and Optimization:**
-  - Create multiple dashboards for monitoring resource consumption and optimizing the system as well as reducing the infrastructure cost.
-  - Add SLA, SLO, DORA and North Star metrics for monitoring the product status, and encourage the team to participate and practice.
-  - Despite of the fresh team, I've driven the whole team to successfully migrate the legacy product to GKE.
-  - Encourage the team to upgrade the dependencies to the new stable version to reduce product vulnerability.
-  - Optimize the deployment method and migrate the legacy deployment pipeline to GitHub Action.
-- **Cross-Team Collaboration:**
-  - As a Technical Lead, I also have to deal with multiple requests from other teams as well as our customers such as API changes, and new feature requests.
-  - When API integration is needed across services, I created the requirements and polished the API documents from our side.
-
-**Senior Software Engineer** (*Mar 2022 - Dec 2023*)<br> *Berlin, Germany · Multi cultured team · Remote*
 - Develop new features and maintain existing back-end projects using **Java** with **Spring Boot MVC**, leveraging a strong understanding of MVC architecture and backend service design to deliver production-ready solutions.
 - Use strong **object-oriented design** practices and Java design patterns while applying **S.O.L.I.D** principles throughout the codebase.
 - Collaborate with solution architects using **UML diagrams** to clearly communicate and refine system designs.
 - Develop end-points **RESTful API** for communication between the front-end and other services.
 - Ensured proper functionality of the code base by writing **Integration** and **Unit** tests, taking care about test coverage.
 - Create and maintaince **Kubernetes** deployment **YAML** file.
-- Applied **CI/CD** with **GitHub Action**.
 - Write and receive application data to/from the **Database** using **PostgreSQL**.
-- Engaging with user bug tickets (referred to as Firefighting work), cross-checking service logs, and releasing hotfixes.
+- Optimize the deployment method and migrate the legacy deployment pipeline to **GitHub Actions**.
+- Add SLA, SLO metrics for monitoring the product status.
+- Engaging with end-users' bug tickets (referred to as Firefighting work), cross-checking service logs, and releasing hotfixes.
 - Create user stories addressing Technical Debt based on the observations and insights gained during the Firefighting work.
 - Cross-check pull requests, user stories.
 
 ### [mesoneer AG](https://www.mesoneer.io/en/) (*Jan 2019 - Feb 2022*)
-**Full-stack Developer**<br> *Zürich, Switzerland · Hybrid*
+**Full-stack Developer**<br>
 
 - Implement back-end (**Java** with **Spring Boot MVC**) and front-end (**Angular**) for new projects.
 - Apply deep knowledge of MVC architecture and backend service design to build reliable, production-ready solutions
@@ -95,7 +69,7 @@
 - Peer code review with teammates and mentoring junior members.
 
 ### [Adnovum](https://www.adnovum.vn/en/vn/) (*Jan 2018 - Dec 2018*)
-**Java Software Engineer**<br> *Vietnam · Onsite*
+**Java Software Engineer**<br>
 
 - Implement new features and maintenance of existing projects (**Java**).
 - Implement and fix UI (**Eclipse RCP**).
@@ -103,7 +77,7 @@
 - Peer code review with teammates.
 
 ### [NewAI](https://newai.vn/) (*Apr 2017 - Dec 2017*)
-**Full-stack Developer**<br> *Vietnam · Onsite*
+**Full-stack Developer**<br>
 
 - Implement back-end (**Java**) and front-end (**PHP/Android**) for new projects.
 - Create and deploy demo and dev environment based on **Google Cloud (Kubernetes)**.
@@ -111,7 +85,7 @@
 - Optimize result layout in PDF for end-user.
 
 ### [Ton Duc Thang University](https://www.tdtu.edu.vn/) (*Nov 2015 - Dec 2016*)
-**Teaching Assistant**<br> *Vietnam · Onsite*
+**Teaching Assistant**<br>
 
 *A volunteer program where the participants help the freshly joined students get familiar with the subjects in their curriculum. Additionally planning and giving exercises for students to practice what they studied in lab.*
 
@@ -160,8 +134,3 @@
 ## Education
 **Bachelor** in **Computer Science** - GPA: **8/10**<br>
 *[Ton Duc Thang University](https://tdtu.edu.vn/) (2017)*
-
-## Projects
-
-Official projects that I have participated in as a full-time employee for companies<br>
-Please refer to [my portfolio](https://thieunguyenhung.github.io/projects) for more details
